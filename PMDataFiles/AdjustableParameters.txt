@@ -1,0 +1,8 @@
+!IMPORTANT! You can adjust only these variables as adjusting the hard-coded values may cause code problems. Do not adjust the variables in the code as well as it not only won't affect it(hopefully) but also it will just result in more bugs.
+resolutionInTile(InPixel): 9
+#number of pixels across length of block
+velocity: 69
+seed: 2790
+height: 1000
+length: 1400
+maxFrameRate: 60
