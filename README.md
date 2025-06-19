@@ -1,4 +1,4 @@
-# This is a 2d clone of Minecraft owned by Mojang AB.
+# This is a 2D Clone of Minecraft written in CPython, Pygame and prim-Zinc
 
 ### This is the first official released development version and is a still ongoing development.
 
