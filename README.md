@@ -10,4 +10,15 @@ Known bugs:
 
 - Screen freezes during world creation and loading
 
+Additions:
+
+- Adds lighting
+- Pale trees (xd)
+- World saving and loading
+- Dynamic resource loading
+- Adds title screen
+- Fixes most movement bugs
+
+"Bug squashing"
+
 ### Written by Zincoin 2024
