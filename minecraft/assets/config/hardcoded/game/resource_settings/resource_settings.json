@@ -1,0 +1,36 @@
+{
+    "inputField":{
+        "cursor":"_",
+        "clickDelay":300,
+        "clickInterval":50,
+        "minimumwidth":350,
+        "charInInputfieldbase":23,
+        "colorActive":[255,255,255],
+        "colorInActive":[50,50,50],
+        "shadowAndTextcolors":[[77,77,77],[255,255,255]]
+    },
+    "splash":{
+        "pulseSpeed":0.7,
+        "baseFontSize":31,
+        "splashBaseCharLength":25,
+        "diffBetweenFonts":3
+    },
+    "mixer":{
+        "frequency":44100,
+        "size":-16,
+        "channels":2,
+        "buffer":512,
+        "buttonClickVolume":0.5
+    },
+    "slider":{
+        "sliderDim":[20,55]
+    },
+    "general":
+    {
+       "shadowBase":4,
+       "defaultScreenDim":[2000,1000],
+       "shadowAndTextcolors":[[255,255,255],[50,50,50]],
+       "should_render_debug":"False"
+    }
+    
+}

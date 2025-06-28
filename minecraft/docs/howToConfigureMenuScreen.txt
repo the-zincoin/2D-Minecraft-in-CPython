@@ -1,0 +1,25 @@
+menuscreen stores data in this format:
+
+{
+[screen identifier]:{
+	"config":[
+		{
+			"path"/"text":[raw path that is modified later on]
+			"position":[position of element relative to screen]
+			"elementType":[type of element that is acquired from the element Class dictionary(elementData)]
+			"nextScreen":[interaction fulfilled and next screen]
+			"chainedElements":[config.interactiveData updates when the object chained to button click]
+			"iEType":[which part of interactive data]
+		
+		}
+
+	]
+	"backGround":
+	[raw path of background]
+	"previousScreen":
+	[enables escape function]
+	"type":
+	[h for hanging loop elements like sliders and input fields and nh for buttons]
+	"text":[additional text for display]
+}
+}

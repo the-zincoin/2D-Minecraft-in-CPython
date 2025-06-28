@@ -1,0 +1,52 @@
+{
+    "config":[
+        {
+            "ID":"master_volume",
+            "text":"Master Volume",
+            "dimensions":[400,55],
+            "valueConstraints":[0,100],
+            "position":["half",300],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"music_volume_menu",
+            "text":"Music Volume (Menu)",
+            "dimensions":[400,55],
+            "valueConstraints":[0,100],
+            "position":["half",400],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"music_volume_game",
+            "text":"Music Volume (Game)",
+            "dimensions":[400,55],
+            "valueConstraints":[0,100],
+            "position":["half",500],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"btnDone",
+            "displayedText":"Done",
+            "position":[1000,600],
+            "elementType":"chab",
+            "nextScreen": "options",
+            "chainedElements":[
+                "master_volume",
+                "music_volume"
+            ]
+        }
+
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+    }
+}

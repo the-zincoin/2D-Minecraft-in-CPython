@@ -1,0 +1,46 @@
+{
+    "config":
+    [
+        {
+            "ID": "btnSingleplayer",
+            "displayedText":"Singleplayer",
+            "position":[1000,450],
+            "elementType":"chab",
+            "nextScreen": "open_game",
+            "chainedElements":[]
+        },
+        {
+            "ID": "btnCredits",
+            "displayedText":"Credits",
+            "position":[1000,550],
+            "elementType":"chab",
+            "nextScreen": "credits",
+            "chainedElements":[]
+        },
+        {
+            "ID": "btnOptions",
+            "displayedText":"Options...",
+            "position":[866,650],
+            "elementType":"chab",
+            "nextScreen": "options",
+            "chainedElements":[]
+        },
+        {
+            "ID": "btnQuitGame",
+            "displayedText":"Quit Game",
+            "position":[1133,650],
+            "elementType":"chab",
+            "nextScreen": "closegame",
+            "chainedElements":[]
+        }
+    ],
+    "misc":{
+        "backGround":
+        "bgTitleScreen",
+        "text":"",
+        "type":
+        "nh",
+        "previousScreen":
+        ""
+    }
+}

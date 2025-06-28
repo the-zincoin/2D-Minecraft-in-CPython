@@ -1,0 +1,3770 @@
+{
+    "acacia_door_bottom.png": [
+        0,
+        0
+    ],
+    "acacia_door_top.png": [
+        16,
+        0
+    ],
+    "acacia_leaves.png": [
+        32,
+        0
+    ],
+    "acacia_log.png": [
+        48,
+        0
+    ],
+    "acacia_log_top.png": [
+        64,
+        0
+    ],
+    "acacia_planks.png": [
+        80,
+        0
+    ],
+    "acacia_sapling.png": [
+        96,
+        0
+    ],
+    "acacia_trapdoor.png": [
+        112,
+        0
+    ],
+    "activator_rail.png": [
+        128,
+        0
+    ],
+    "activator_rail_on.png": [
+        144,
+        0
+    ],
+    "allium.png": [
+        160,
+        0
+    ],
+    "amethyst_block.png": [
+        176,
+        0
+    ],
+    "amethyst_cluster.png": [
+        192,
+        0
+    ],
+    "ancient_debris_side.png": [
+        208,
+        0
+    ],
+    "ancient_debris_top.png": [
+        224,
+        0
+    ],
+    "andesite.png": [
+        240,
+        0
+    ],
+    "anvil.png": [
+        256,
+        0
+    ],
+    "anvil_top.png": [
+        272,
+        0
+    ],
+    "attached_melon_stem.png": [
+        288,
+        0
+    ],
+    "attached_pumpkin_stem.png": [
+        304,
+        0
+    ],
+    "azalea_leaves.png": [
+        320,
+        0
+    ],
+    "azalea_plant.png": [
+        336,
+        0
+    ],
+    "azalea_side.png": [
+        352,
+        0
+    ],
+    "azalea_top.png": [
+        368,
+        0
+    ],
+    "azure_bluet.png": [
+        384,
+        0
+    ],
+    "bamboo_block.png": [
+        400,
+        0
+    ],
+    "bamboo_block_top.png": [
+        416,
+        0
+    ],
+    "bamboo_door_bottom.png": [
+        432,
+        0
+    ],
+    "bamboo_door_top.png": [
+        448,
+        0
+    ],
+    "bamboo_fence.png": [
+        464,
+        0
+    ],
+    "bamboo_fence_gate.png": [
+        480,
+        0
+    ],
+    "bamboo_fence_gate_particle.png": [
+        496,
+        0
+    ],
+    "bamboo_fence_particle.png": [
+        0,
+        16
+    ],
+    "bamboo_large_leaves.png": [
+        16,
+        16
+    ],
+    "bamboo_mosaic.png": [
+        32,
+        16
+    ],
+    "bamboo_planks.png": [
+        48,
+        16
+    ],
+    "bamboo_singleleaf.png": [
+        64,
+        16
+    ],
+    "bamboo_small_leaves.png": [
+        80,
+        16
+    ],
+    "bamboo_stage0.png": [
+        96,
+        16
+    ],
+    "bamboo_stalk.png": [
+        112,
+        16
+    ],
+    "bamboo_trapdoor.png": [
+        128,
+        16
+    ],
+    "barrel_bottom.png": [
+        144,
+        16
+    ],
+    "barrel_side.png": [
+        160,
+        16
+    ],
+    "barrel_top.png": [
+        176,
+        16
+    ],
+    "barrel_top_open.png": [
+        192,
+        16
+    ],
+    "basalt_side.png": [
+        208,
+        16
+    ],
+    "basalt_top.png": [
+        224,
+        16
+    ],
+    "beacon.png": [
+        240,
+        16
+    ],
+    "bedrock.png": [
+        256,
+        16
+    ],
+    "beehive_end.png": [
+        272,
+        16
+    ],
+    "beehive_front.png": [
+        288,
+        16
+    ],
+    "beehive_front_honey.png": [
+        304,
+        16
+    ],
+    "beehive_side.png": [
+        320,
+        16
+    ],
+    "beetroots_stage0.png": [
+        336,
+        16
+    ],
+    "beetroots_stage1.png": [
+        352,
+        16
+    ],
+    "beetroots_stage2.png": [
+        368,
+        16
+    ],
+    "beetroots_stage3.png": [
+        384,
+        16
+    ],
+    "bee_nest_bottom.png": [
+        400,
+        16
+    ],
+    "bee_nest_front.png": [
+        416,
+        16
+    ],
+    "bee_nest_front_honey.png": [
+        432,
+        16
+    ],
+    "bee_nest_side.png": [
+        448,
+        16
+    ],
+    "bee_nest_top.png": [
+        464,
+        16
+    ],
+    "bell_bottom.png": [
+        480,
+        16
+    ],
+    "bell_side.png": [
+        496,
+        16
+    ],
+    "bell_top.png": [
+        0,
+        32
+    ],
+    "big_dripleaf_side.png": [
+        16,
+        32
+    ],
+    "big_dripleaf_stem.png": [
+        32,
+        32
+    ],
+    "big_dripleaf_tip.png": [
+        48,
+        32
+    ],
+    "big_dripleaf_top.png": [
+        64,
+        32
+    ],
+    "birch_door_bottom.png": [
+        80,
+        32
+    ],
+    "birch_door_top.png": [
+        96,
+        32
+    ],
+    "birch_leaves.png": [
+        112,
+        32
+    ],
+    "birch_log.png": [
+        128,
+        32
+    ],
+    "birch_log_top.png": [
+        144,
+        32
+    ],
+    "birch_planks.png": [
+        160,
+        32
+    ],
+    "birch_sapling.png": [
+        176,
+        32
+    ],
+    "birch_trapdoor.png": [
+        192,
+        32
+    ],
+    "blackstone.png": [
+        208,
+        32
+    ],
+    "blackstone_top.png": [
+        224,
+        32
+    ],
+    "black_candle.png": [
+        240,
+        32
+    ],
+    "black_candle_lit.png": [
+        256,
+        32
+    ],
+    "black_concrete.png": [
+        272,
+        32
+    ],
+    "black_concrete_powder.png": [
+        288,
+        32
+    ],
+    "black_glazed_terracotta.png": [
+        304,
+        32
+    ],
+    "black_shulker_box.png": [
+        320,
+        32
+    ],
+    "black_stained_glass.png": [
+        336,
+        32
+    ],
+    "black_stained_glass_pane_top.png": [
+        352,
+        32
+    ],
+    "black_terracotta.png": [
+        368,
+        32
+    ],
+    "black_wool.png": [
+        384,
+        32
+    ],
+    "blast_furnace_front.png": [
+        400,
+        32
+    ],
+    "blast_furnace_side.png": [
+        416,
+        32
+    ],
+    "blast_furnace_top.png": [
+        432,
+        32
+    ],
+    "blue_candle.png": [
+        448,
+        32
+    ],
+    "blue_candle_lit.png": [
+        464,
+        32
+    ],
+    "blue_concrete.png": [
+        480,
+        32
+    ],
+    "blue_concrete_powder.png": [
+        496,
+        32
+    ],
+    "blue_glazed_terracotta.png": [
+        0,
+        48
+    ],
+    "blue_ice.png": [
+        16,
+        48
+    ],
+    "blue_orchid.png": [
+        32,
+        48
+    ],
+    "blue_shulker_box.png": [
+        48,
+        48
+    ],
+    "blue_stained_glass.png": [
+        64,
+        48
+    ],
+    "blue_stained_glass_pane_top.png": [
+        80,
+        48
+    ],
+    "blue_terracotta.png": [
+        96,
+        48
+    ],
+    "blue_wool.png": [
+        112,
+        48
+    ],
+    "bone_block_side.png": [
+        128,
+        48
+    ],
+    "bone_block_top.png": [
+        144,
+        48
+    ],
+    "bookshelf.png": [
+        160,
+        48
+    ],
+    "brain_coral.png": [
+        176,
+        48
+    ],
+    "brain_coral_block.png": [
+        192,
+        48
+    ],
+    "brain_coral_fan.png": [
+        208,
+        48
+    ],
+    "brewing_stand.png": [
+        224,
+        48
+    ],
+    "brewing_stand_base.png": [
+        240,
+        48
+    ],
+    "bricks.png": [
+        256,
+        48
+    ],
+    "brown_candle.png": [
+        272,
+        48
+    ],
+    "brown_candle_lit.png": [
+        288,
+        48
+    ],
+    "brown_concrete.png": [
+        304,
+        48
+    ],
+    "brown_concrete_powder.png": [
+        320,
+        48
+    ],
+    "brown_glazed_terracotta.png": [
+        336,
+        48
+    ],
+    "brown_mushroom.png": [
+        352,
+        48
+    ],
+    "brown_mushroom_block.png": [
+        368,
+        48
+    ],
+    "brown_shulker_box.png": [
+        384,
+        48
+    ],
+    "brown_stained_glass.png": [
+        400,
+        48
+    ],
+    "brown_stained_glass_pane_top.png": [
+        416,
+        48
+    ],
+    "brown_terracotta.png": [
+        432,
+        48
+    ],
+    "brown_wool.png": [
+        448,
+        48
+    ],
+    "bubble_coral.png": [
+        464,
+        48
+    ],
+    "bubble_coral_block.png": [
+        480,
+        48
+    ],
+    "bubble_coral_fan.png": [
+        496,
+        48
+    ],
+    "budding_amethyst.png": [
+        0,
+        64
+    ],
+    "cactus_bottom.png": [
+        16,
+        64
+    ],
+    "cactus_side.png": [
+        32,
+        64
+    ],
+    "cactus_top.png": [
+        48,
+        64
+    ],
+    "cake_bottom.png": [
+        64,
+        64
+    ],
+    "cake_inner.png": [
+        80,
+        64
+    ],
+    "cake_side.png": [
+        96,
+        64
+    ],
+    "cake_top.png": [
+        112,
+        64
+    ],
+    "calcite.png": [
+        128,
+        64
+    ],
+    "calibrated_sculk_sensor_amethyst.png": [
+        144,
+        64
+    ],
+    "calibrated_sculk_sensor_input_side.png": [
+        160,
+        64
+    ],
+    "calibrated_sculk_sensor_top.png": [
+        176,
+        64
+    ],
+    "campfire_log.png": [
+        192,
+        64
+    ],
+    "candle.png": [
+        208,
+        64
+    ],
+    "candle_lit.png": [
+        224,
+        64
+    ],
+    "carrots_stage0.png": [
+        240,
+        64
+    ],
+    "carrots_stage1.png": [
+        256,
+        64
+    ],
+    "carrots_stage2.png": [
+        272,
+        64
+    ],
+    "carrots_stage3.png": [
+        288,
+        64
+    ],
+    "cartography_table_side1.png": [
+        304,
+        64
+    ],
+    "cartography_table_side2.png": [
+        320,
+        64
+    ],
+    "cartography_table_side3.png": [
+        336,
+        64
+    ],
+    "cartography_table_top.png": [
+        352,
+        64
+    ],
+    "carved_pumpkin.png": [
+        368,
+        64
+    ],
+    "cauldron_bottom.png": [
+        384,
+        64
+    ],
+    "cauldron_inner.png": [
+        400,
+        64
+    ],
+    "cauldron_side.png": [
+        416,
+        64
+    ],
+    "cauldron_top.png": [
+        432,
+        64
+    ],
+    "cave_vines.png": [
+        448,
+        64
+    ],
+    "cave_vines_lit.png": [
+        464,
+        64
+    ],
+    "cave_vines_plant.png": [
+        480,
+        64
+    ],
+    "cave_vines_plant_lit.png": [
+        496,
+        64
+    ],
+    "chain.png": [
+        0,
+        80
+    ],
+    "cherry_door_bottom.png": [
+        16,
+        80
+    ],
+    "cherry_door_top.png": [
+        32,
+        80
+    ],
+    "cherry_leaves.png": [
+        48,
+        80
+    ],
+    "cherry_log.png": [
+        64,
+        80
+    ],
+    "cherry_log_top.png": [
+        80,
+        80
+    ],
+    "cherry_planks.png": [
+        96,
+        80
+    ],
+    "cherry_sapling.png": [
+        112,
+        80
+    ],
+    "cherry_trapdoor.png": [
+        128,
+        80
+    ],
+    "chipped_anvil_top.png": [
+        144,
+        80
+    ],
+    "chiseled_bookshelf_empty.png": [
+        160,
+        80
+    ],
+    "chiseled_bookshelf_occupied.png": [
+        176,
+        80
+    ],
+    "chiseled_bookshelf_side.png": [
+        192,
+        80
+    ],
+    "chiseled_bookshelf_top.png": [
+        208,
+        80
+    ],
+    "chiseled_copper.png": [
+        224,
+        80
+    ],
+    "chiseled_deepslate.png": [
+        240,
+        80
+    ],
+    "chiseled_nether_bricks.png": [
+        256,
+        80
+    ],
+    "chiseled_polished_blackstone.png": [
+        272,
+        80
+    ],
+    "chiseled_quartz_block.png": [
+        288,
+        80
+    ],
+    "chiseled_quartz_block_top.png": [
+        304,
+        80
+    ],
+    "chiseled_red_sandstone.png": [
+        320,
+        80
+    ],
+    "chiseled_sandstone.png": [
+        336,
+        80
+    ],
+    "chiseled_stone_bricks.png": [
+        352,
+        80
+    ],
+    "chiseled_tuff.png": [
+        368,
+        80
+    ],
+    "chiseled_tuff_bricks.png": [
+        384,
+        80
+    ],
+    "chiseled_tuff_bricks_top.png": [
+        400,
+        80
+    ],
+    "chiseled_tuff_top.png": [
+        416,
+        80
+    ],
+    "chorus_flower.png": [
+        432,
+        80
+    ],
+    "chorus_flower_dead.png": [
+        448,
+        80
+    ],
+    "chorus_plant.png": [
+        464,
+        80
+    ],
+    "clay.png": [
+        480,
+        80
+    ],
+    "coal_block.png": [
+        496,
+        80
+    ],
+    "coal_ore.png": [
+        0,
+        96
+    ],
+    "coarse_dirt.png": [
+        16,
+        96
+    ],
+    "cobbled_deepslate.png": [
+        32,
+        96
+    ],
+    "cobblestone.png": [
+        48,
+        96
+    ],
+    "cobweb.png": [
+        64,
+        96
+    ],
+    "cocoa_stage0.png": [
+        80,
+        96
+    ],
+    "cocoa_stage1.png": [
+        96,
+        96
+    ],
+    "cocoa_stage2.png": [
+        112,
+        96
+    ],
+    "comparator.png": [
+        128,
+        96
+    ],
+    "comparator_on.png": [
+        144,
+        96
+    ],
+    "composter_bottom.png": [
+        160,
+        96
+    ],
+    "composter_compost.png": [
+        176,
+        96
+    ],
+    "composter_ready.png": [
+        192,
+        96
+    ],
+    "composter_side.png": [
+        208,
+        96
+    ],
+    "composter_top.png": [
+        224,
+        96
+    ],
+    "conduit.png": [
+        240,
+        96
+    ],
+    "copper_block.png": [
+        256,
+        96
+    ],
+    "copper_bulb.png": [
+        272,
+        96
+    ],
+    "copper_bulb_lit.png": [
+        288,
+        96
+    ],
+    "copper_bulb_lit_powered.png": [
+        304,
+        96
+    ],
+    "copper_bulb_powered.png": [
+        320,
+        96
+    ],
+    "copper_door_bottom.png": [
+        336,
+        96
+    ],
+    "copper_door_top.png": [
+        352,
+        96
+    ],
+    "copper_grate.png": [
+        368,
+        96
+    ],
+    "copper_ore.png": [
+        384,
+        96
+    ],
+    "copper_trapdoor.png": [
+        400,
+        96
+    ],
+    "cornflower.png": [
+        416,
+        96
+    ],
+    "cracked_deepslate_bricks.png": [
+        432,
+        96
+    ],
+    "cracked_deepslate_tiles.png": [
+        448,
+        96
+    ],
+    "cracked_nether_bricks.png": [
+        464,
+        96
+    ],
+    "cracked_polished_blackstone_bricks.png": [
+        480,
+        96
+    ],
+    "cracked_stone_bricks.png": [
+        496,
+        96
+    ],
+    "crafter_bottom.png": [
+        0,
+        112
+    ],
+    "crafter_east.png": [
+        16,
+        112
+    ],
+    "crafter_east_crafting.png": [
+        32,
+        112
+    ],
+    "crafter_east_triggered.png": [
+        48,
+        112
+    ],
+    "crafter_north.png": [
+        64,
+        112
+    ],
+    "crafter_north_crafting.png": [
+        80,
+        112
+    ],
+    "crafter_south.png": [
+        96,
+        112
+    ],
+    "crafter_south_triggered.png": [
+        112,
+        112
+    ],
+    "crafter_top.png": [
+        128,
+        112
+    ],
+    "crafter_top_crafting.png": [
+        144,
+        112
+    ],
+    "crafter_top_triggered.png": [
+        160,
+        112
+    ],
+    "crafter_west.png": [
+        176,
+        112
+    ],
+    "crafter_west_crafting.png": [
+        192,
+        112
+    ],
+    "crafter_west_triggered.png": [
+        208,
+        112
+    ],
+    "crafting_table_front.png": [
+        224,
+        112
+    ],
+    "crafting_table_side.png": [
+        240,
+        112
+    ],
+    "crafting_table_top.png": [
+        256,
+        112
+    ],
+    "crimson_door_bottom.png": [
+        272,
+        112
+    ],
+    "crimson_door_top.png": [
+        288,
+        112
+    ],
+    "crimson_fungus.png": [
+        304,
+        112
+    ],
+    "crimson_nylium.png": [
+        320,
+        112
+    ],
+    "crimson_nylium_side.png": [
+        336,
+        112
+    ],
+    "crimson_planks.png": [
+        352,
+        112
+    ],
+    "crimson_roots.png": [
+        368,
+        112
+    ],
+    "crimson_roots_pot.png": [
+        384,
+        112
+    ],
+    "crimson_stem_top.png": [
+        400,
+        112
+    ],
+    "crimson_trapdoor.png": [
+        416,
+        112
+    ],
+    "crying_obsidian.png": [
+        432,
+        112
+    ],
+    "cut_copper.png": [
+        448,
+        112
+    ],
+    "cut_red_sandstone.png": [
+        464,
+        112
+    ],
+    "cut_sandstone.png": [
+        480,
+        112
+    ],
+    "cyan_candle.png": [
+        496,
+        112
+    ],
+    "cyan_candle_lit.png": [
+        0,
+        128
+    ],
+    "cyan_concrete.png": [
+        16,
+        128
+    ],
+    "cyan_concrete_powder.png": [
+        32,
+        128
+    ],
+    "cyan_glazed_terracotta.png": [
+        48,
+        128
+    ],
+    "cyan_shulker_box.png": [
+        64,
+        128
+    ],
+    "cyan_stained_glass.png": [
+        80,
+        128
+    ],
+    "cyan_stained_glass_pane_top.png": [
+        96,
+        128
+    ],
+    "cyan_terracotta.png": [
+        112,
+        128
+    ],
+    "cyan_wool.png": [
+        128,
+        128
+    ],
+    "damaged_anvil_top.png": [
+        144,
+        128
+    ],
+    "dandelion.png": [
+        160,
+        128
+    ],
+    "dark_oak_door_bottom.png": [
+        176,
+        128
+    ],
+    "dark_oak_door_top.png": [
+        192,
+        128
+    ],
+    "dark_oak_leaves.png": [
+        208,
+        128
+    ],
+    "dark_oak_log.png": [
+        224,
+        128
+    ],
+    "dark_oak_log_top.png": [
+        240,
+        128
+    ],
+    "dark_oak_planks.png": [
+        256,
+        128
+    ],
+    "dark_oak_sapling.png": [
+        272,
+        128
+    ],
+    "dark_oak_trapdoor.png": [
+        288,
+        128
+    ],
+    "dark_prismarine.png": [
+        304,
+        128
+    ],
+    "daylight_detector_inverted_top.png": [
+        320,
+        128
+    ],
+    "daylight_detector_side.png": [
+        336,
+        128
+    ],
+    "daylight_detector_top.png": [
+        352,
+        128
+    ],
+    "dead_brain_coral.png": [
+        368,
+        128
+    ],
+    "dead_brain_coral_block.png": [
+        384,
+        128
+    ],
+    "dead_brain_coral_fan.png": [
+        400,
+        128
+    ],
+    "dead_bubble_coral.png": [
+        416,
+        128
+    ],
+    "dead_bubble_coral_block.png": [
+        432,
+        128
+    ],
+    "dead_bubble_coral_fan.png": [
+        448,
+        128
+    ],
+    "dead_bush.png": [
+        464,
+        128
+    ],
+    "dead_fire_coral.png": [
+        480,
+        128
+    ],
+    "dead_fire_coral_block.png": [
+        496,
+        128
+    ],
+    "dead_fire_coral_fan.png": [
+        0,
+        144
+    ],
+    "dead_horn_coral.png": [
+        16,
+        144
+    ],
+    "dead_horn_coral_block.png": [
+        32,
+        144
+    ],
+    "dead_horn_coral_fan.png": [
+        48,
+        144
+    ],
+    "dead_tube_coral.png": [
+        64,
+        144
+    ],
+    "dead_tube_coral_block.png": [
+        80,
+        144
+    ],
+    "dead_tube_coral_fan.png": [
+        96,
+        144
+    ],
+    "debug.png": [
+        112,
+        144
+    ],
+    "debug2.png": [
+        128,
+        144
+    ],
+    "deepslate.png": [
+        144,
+        144
+    ],
+    "deepslate_bricks.png": [
+        160,
+        144
+    ],
+    "deepslate_coal_ore.png": [
+        176,
+        144
+    ],
+    "deepslate_copper_ore.png": [
+        192,
+        144
+    ],
+    "deepslate_diamond_ore.png": [
+        208,
+        144
+    ],
+    "deepslate_emerald_ore.png": [
+        224,
+        144
+    ],
+    "deepslate_gold_ore.png": [
+        240,
+        144
+    ],
+    "deepslate_iron_ore.png": [
+        256,
+        144
+    ],
+    "deepslate_lapis_ore.png": [
+        272,
+        144
+    ],
+    "deepslate_redstone_ore.png": [
+        288,
+        144
+    ],
+    "deepslate_tiles.png": [
+        304,
+        144
+    ],
+    "deepslate_top.png": [
+        320,
+        144
+    ],
+    "destroy_stage_0.png": [
+        336,
+        144
+    ],
+    "destroy_stage_1.png": [
+        352,
+        144
+    ],
+    "destroy_stage_2.png": [
+        368,
+        144
+    ],
+    "destroy_stage_3.png": [
+        384,
+        144
+    ],
+    "destroy_stage_4.png": [
+        400,
+        144
+    ],
+    "destroy_stage_5.png": [
+        416,
+        144
+    ],
+    "destroy_stage_6.png": [
+        432,
+        144
+    ],
+    "destroy_stage_7.png": [
+        448,
+        144
+    ],
+    "destroy_stage_8.png": [
+        464,
+        144
+    ],
+    "destroy_stage_9.png": [
+        480,
+        144
+    ],
+    "detector_rail.png": [
+        496,
+        144
+    ],
+    "detector_rail_on.png": [
+        0,
+        160
+    ],
+    "diamond_block.png": [
+        16,
+        160
+    ],
+    "diamond_ore.png": [
+        32,
+        160
+    ],
+    "diorite.png": [
+        48,
+        160
+    ],
+    "dirt.png": [
+        64,
+        160
+    ],
+    "dirt_path_side.png": [
+        80,
+        160
+    ],
+    "dirt_path_top.png": [
+        96,
+        160
+    ],
+    "dispenser_front.png": [
+        112,
+        160
+    ],
+    "dispenser_front_vertical.png": [
+        128,
+        160
+    ],
+    "dragon_egg.png": [
+        144,
+        160
+    ],
+    "dried_kelp_bottom.png": [
+        160,
+        160
+    ],
+    "dried_kelp_side.png": [
+        176,
+        160
+    ],
+    "dried_kelp_top.png": [
+        192,
+        160
+    ],
+    "dripstone_block.png": [
+        208,
+        160
+    ],
+    "dropper_front.png": [
+        224,
+        160
+    ],
+    "dropper_front_vertical.png": [
+        240,
+        160
+    ],
+    "emerald_block.png": [
+        256,
+        160
+    ],
+    "emerald_ore.png": [
+        272,
+        160
+    ],
+    "enchanting_table_bottom.png": [
+        288,
+        160
+    ],
+    "enchanting_table_side.png": [
+        304,
+        160
+    ],
+    "enchanting_table_top.png": [
+        320,
+        160
+    ],
+    "end_portal_frame_eye.png": [
+        336,
+        160
+    ],
+    "end_portal_frame_side.png": [
+        352,
+        160
+    ],
+    "end_portal_frame_top.png": [
+        368,
+        160
+    ],
+    "end_rod.png": [
+        384,
+        160
+    ],
+    "end_stone.png": [
+        400,
+        160
+    ],
+    "end_stone_bricks.png": [
+        416,
+        160
+    ],
+    "exposed_chiseled_copper.png": [
+        432,
+        160
+    ],
+    "exposed_copper.png": [
+        448,
+        160
+    ],
+    "exposed_copper_bulb.png": [
+        464,
+        160
+    ],
+    "exposed_copper_bulb_lit.png": [
+        480,
+        160
+    ],
+    "exposed_copper_bulb_lit_powered.png": [
+        496,
+        160
+    ],
+    "exposed_copper_bulb_powered.png": [
+        0,
+        176
+    ],
+    "exposed_copper_door_bottom.png": [
+        16,
+        176
+    ],
+    "exposed_copper_door_top.png": [
+        32,
+        176
+    ],
+    "exposed_copper_grate.png": [
+        48,
+        176
+    ],
+    "exposed_copper_trapdoor.png": [
+        64,
+        176
+    ],
+    "exposed_cut_copper.png": [
+        80,
+        176
+    ],
+    "farmland.png": [
+        96,
+        176
+    ],
+    "farmland_moist.png": [
+        112,
+        176
+    ],
+    "fern.png": [
+        128,
+        176
+    ],
+    "fire_coral.png": [
+        144,
+        176
+    ],
+    "fire_coral_block.png": [
+        160,
+        176
+    ],
+    "fire_coral_fan.png": [
+        176,
+        176
+    ],
+    "fletching_table_front.png": [
+        192,
+        176
+    ],
+    "fletching_table_side.png": [
+        208,
+        176
+    ],
+    "fletching_table_top.png": [
+        224,
+        176
+    ],
+    "flowering_azalea_leaves.png": [
+        240,
+        176
+    ],
+    "flowering_azalea_side.png": [
+        256,
+        176
+    ],
+    "flowering_azalea_top.png": [
+        272,
+        176
+    ],
+    "flower_pot.png": [
+        288,
+        176
+    ],
+    "frogspawn.png": [
+        304,
+        176
+    ],
+    "frosted_ice_0.png": [
+        320,
+        176
+    ],
+    "frosted_ice_1.png": [
+        336,
+        176
+    ],
+    "frosted_ice_2.png": [
+        352,
+        176
+    ],
+    "frosted_ice_3.png": [
+        368,
+        176
+    ],
+    "furnace_front.png": [
+        384,
+        176
+    ],
+    "furnace_front_on.png": [
+        400,
+        176
+    ],
+    "furnace_side.png": [
+        416,
+        176
+    ],
+    "furnace_top.png": [
+        432,
+        176
+    ],
+    "gilded_blackstone.png": [
+        448,
+        176
+    ],
+    "glass.png": [
+        464,
+        176
+    ],
+    "glass_pane_top.png": [
+        480,
+        176
+    ],
+    "glowstone.png": [
+        496,
+        176
+    ],
+    "glow_item_frame.png": [
+        0,
+        192
+    ],
+    "glow_lichen.png": [
+        16,
+        192
+    ],
+    "gold_block.png": [
+        32,
+        192
+    ],
+    "gold_ore.png": [
+        48,
+        192
+    ],
+    "granite.png": [
+        64,
+        192
+    ],
+    "grass_block_side.png": [
+        80,
+        192
+    ],
+    "grass_block_side_overlay.png": [
+        96,
+        192
+    ],
+    "grass_block_snow.png": [
+        112,
+        192
+    ],
+    "grass_block_top.png": [
+        128,
+        192
+    ],
+    "gravel.png": [
+        144,
+        192
+    ],
+    "gray_candle.png": [
+        160,
+        192
+    ],
+    "gray_candle_lit.png": [
+        176,
+        192
+    ],
+    "gray_concrete.png": [
+        192,
+        192
+    ],
+    "gray_concrete_powder.png": [
+        208,
+        192
+    ],
+    "gray_glazed_terracotta.png": [
+        224,
+        192
+    ],
+    "gray_shulker_box.png": [
+        240,
+        192
+    ],
+    "gray_stained_glass.png": [
+        256,
+        192
+    ],
+    "gray_stained_glass_pane_top.png": [
+        272,
+        192
+    ],
+    "gray_terracotta.png": [
+        288,
+        192
+    ],
+    "gray_wool.png": [
+        304,
+        192
+    ],
+    "green_candle.png": [
+        320,
+        192
+    ],
+    "green_candle_lit.png": [
+        336,
+        192
+    ],
+    "green_concrete.png": [
+        352,
+        192
+    ],
+    "green_concrete_powder.png": [
+        368,
+        192
+    ],
+    "green_glazed_terracotta.png": [
+        384,
+        192
+    ],
+    "green_shulker_box.png": [
+        400,
+        192
+    ],
+    "green_stained_glass.png": [
+        416,
+        192
+    ],
+    "green_stained_glass_pane_top.png": [
+        432,
+        192
+    ],
+    "green_terracotta.png": [
+        448,
+        192
+    ],
+    "green_wool.png": [
+        464,
+        192
+    ],
+    "grindstone_pivot.png": [
+        480,
+        192
+    ],
+    "grindstone_round.png": [
+        496,
+        192
+    ],
+    "grindstone_side.png": [
+        0,
+        208
+    ],
+    "hanging_roots.png": [
+        16,
+        208
+    ],
+    "hay_block_side.png": [
+        32,
+        208
+    ],
+    "hay_block_top.png": [
+        48,
+        208
+    ],
+    "honeycomb_block.png": [
+        64,
+        208
+    ],
+    "honey_block_bottom.png": [
+        80,
+        208
+    ],
+    "honey_block_side.png": [
+        96,
+        208
+    ],
+    "honey_block_top.png": [
+        112,
+        208
+    ],
+    "hopper_inside.png": [
+        128,
+        208
+    ],
+    "hopper_outside.png": [
+        144,
+        208
+    ],
+    "hopper_top.png": [
+        160,
+        208
+    ],
+    "horn_coral.png": [
+        176,
+        208
+    ],
+    "horn_coral_block.png": [
+        192,
+        208
+    ],
+    "horn_coral_fan.png": [
+        208,
+        208
+    ],
+    "ice.png": [
+        224,
+        208
+    ],
+    "iron_bars.png": [
+        240,
+        208
+    ],
+    "iron_block.png": [
+        256,
+        208
+    ],
+    "iron_door_bottom.png": [
+        272,
+        208
+    ],
+    "iron_door_top.png": [
+        288,
+        208
+    ],
+    "iron_ore.png": [
+        304,
+        208
+    ],
+    "iron_trapdoor.png": [
+        320,
+        208
+    ],
+    "item_frame.png": [
+        336,
+        208
+    ],
+    "jack_o_lantern.png": [
+        352,
+        208
+    ],
+    "jigsaw_bottom.png": [
+        368,
+        208
+    ],
+    "jigsaw_lock.png": [
+        384,
+        208
+    ],
+    "jigsaw_side.png": [
+        400,
+        208
+    ],
+    "jigsaw_top.png": [
+        416,
+        208
+    ],
+    "jukebox_side.png": [
+        432,
+        208
+    ],
+    "jukebox_top.png": [
+        448,
+        208
+    ],
+    "jungle_door_bottom.png": [
+        464,
+        208
+    ],
+    "jungle_door_top.png": [
+        480,
+        208
+    ],
+    "jungle_leaves.png": [
+        496,
+        208
+    ],
+    "jungle_log.png": [
+        0,
+        224
+    ],
+    "jungle_log_top.png": [
+        16,
+        224
+    ],
+    "jungle_planks.png": [
+        32,
+        224
+    ],
+    "jungle_sapling.png": [
+        48,
+        224
+    ],
+    "jungle_trapdoor.png": [
+        64,
+        224
+    ],
+    "ladder.png": [
+        80,
+        224
+    ],
+    "lapis_block.png": [
+        96,
+        224
+    ],
+    "lapis_ore.png": [
+        112,
+        224
+    ],
+    "large_amethyst_bud.png": [
+        128,
+        224
+    ],
+    "large_fern_bottom.png": [
+        144,
+        224
+    ],
+    "large_fern_top.png": [
+        160,
+        224
+    ],
+    "lectern_base.png": [
+        176,
+        224
+    ],
+    "lectern_front.png": [
+        192,
+        224
+    ],
+    "lectern_sides.png": [
+        208,
+        224
+    ],
+    "lectern_top.png": [
+        224,
+        224
+    ],
+    "lever.png": [
+        240,
+        224
+    ],
+    "lightning_rod.png": [
+        256,
+        224
+    ],
+    "lightning_rod_on.png": [
+        272,
+        224
+    ],
+    "light_blue_candle.png": [
+        288,
+        224
+    ],
+    "light_blue_candle_lit.png": [
+        304,
+        224
+    ],
+    "light_blue_concrete.png": [
+        320,
+        224
+    ],
+    "light_blue_concrete_powder.png": [
+        336,
+        224
+    ],
+    "light_blue_glazed_terracotta.png": [
+        352,
+        224
+    ],
+    "light_blue_shulker_box.png": [
+        368,
+        224
+    ],
+    "light_blue_stained_glass.png": [
+        384,
+        224
+    ],
+    "light_blue_stained_glass_pane_top.png": [
+        400,
+        224
+    ],
+    "light_blue_terracotta.png": [
+        416,
+        224
+    ],
+    "light_blue_wool.png": [
+        432,
+        224
+    ],
+    "light_gray_candle.png": [
+        448,
+        224
+    ],
+    "light_gray_candle_lit.png": [
+        464,
+        224
+    ],
+    "light_gray_concrete.png": [
+        480,
+        224
+    ],
+    "light_gray_concrete_powder.png": [
+        496,
+        224
+    ],
+    "light_gray_glazed_terracotta.png": [
+        0,
+        240
+    ],
+    "light_gray_shulker_box.png": [
+        16,
+        240
+    ],
+    "light_gray_stained_glass.png": [
+        32,
+        240
+    ],
+    "light_gray_stained_glass_pane_top.png": [
+        48,
+        240
+    ],
+    "light_gray_terracotta.png": [
+        64,
+        240
+    ],
+    "light_gray_wool.png": [
+        80,
+        240
+    ],
+    "lilac_bottom.png": [
+        96,
+        240
+    ],
+    "lilac_top.png": [
+        112,
+        240
+    ],
+    "lily_of_the_valley.png": [
+        128,
+        240
+    ],
+    "lily_pad.png": [
+        144,
+        240
+    ],
+    "lime_candle.png": [
+        160,
+        240
+    ],
+    "lime_candle_lit.png": [
+        176,
+        240
+    ],
+    "lime_concrete.png": [
+        192,
+        240
+    ],
+    "lime_concrete_powder.png": [
+        208,
+        240
+    ],
+    "lime_glazed_terracotta.png": [
+        224,
+        240
+    ],
+    "lime_shulker_box.png": [
+        240,
+        240
+    ],
+    "lime_stained_glass.png": [
+        256,
+        240
+    ],
+    "lime_stained_glass_pane_top.png": [
+        272,
+        240
+    ],
+    "lime_terracotta.png": [
+        288,
+        240
+    ],
+    "lime_wool.png": [
+        304,
+        240
+    ],
+    "lodestone_side.png": [
+        320,
+        240
+    ],
+    "lodestone_top.png": [
+        336,
+        240
+    ],
+    "loom_bottom.png": [
+        352,
+        240
+    ],
+    "loom_front.png": [
+        368,
+        240
+    ],
+    "loom_side.png": [
+        384,
+        240
+    ],
+    "loom_top.png": [
+        400,
+        240
+    ],
+    "magenta_candle.png": [
+        416,
+        240
+    ],
+    "magenta_candle_lit.png": [
+        432,
+        240
+    ],
+    "magenta_concrete.png": [
+        448,
+        240
+    ],
+    "magenta_concrete_powder.png": [
+        464,
+        240
+    ],
+    "magenta_glazed_terracotta.png": [
+        480,
+        240
+    ],
+    "magenta_shulker_box.png": [
+        496,
+        240
+    ],
+    "magenta_stained_glass.png": [
+        0,
+        256
+    ],
+    "magenta_stained_glass_pane_top.png": [
+        16,
+        256
+    ],
+    "magenta_terracotta.png": [
+        32,
+        256
+    ],
+    "magenta_wool.png": [
+        48,
+        256
+    ],
+    "mangrove_door_bottom.png": [
+        64,
+        256
+    ],
+    "mangrove_door_top.png": [
+        80,
+        256
+    ],
+    "mangrove_leaves.png": [
+        96,
+        256
+    ],
+    "mangrove_log.png": [
+        112,
+        256
+    ],
+    "mangrove_log_top.png": [
+        128,
+        256
+    ],
+    "mangrove_planks.png": [
+        144,
+        256
+    ],
+    "mangrove_propagule.png": [
+        160,
+        256
+    ],
+    "mangrove_propagule_hanging.png": [
+        176,
+        256
+    ],
+    "mangrove_roots_side.png": [
+        192,
+        256
+    ],
+    "mangrove_roots_top.png": [
+        208,
+        256
+    ],
+    "mangrove_trapdoor.png": [
+        224,
+        256
+    ],
+    "medium_amethyst_bud.png": [
+        240,
+        256
+    ],
+    "melon_side.png": [
+        256,
+        256
+    ],
+    "melon_stem.png": [
+        272,
+        256
+    ],
+    "melon_top.png": [
+        288,
+        256
+    ],
+    "mossy_cobblestone.png": [
+        304,
+        256
+    ],
+    "mossy_stone_bricks.png": [
+        320,
+        256
+    ],
+    "moss_block.png": [
+        336,
+        256
+    ],
+    "mud.png": [
+        352,
+        256
+    ],
+    "muddy_mangrove_roots_side.png": [
+        368,
+        256
+    ],
+    "muddy_mangrove_roots_top.png": [
+        384,
+        256
+    ],
+    "mud_bricks.png": [
+        400,
+        256
+    ],
+    "mushroom_block_inside.png": [
+        416,
+        256
+    ],
+    "mushroom_stem.png": [
+        432,
+        256
+    ],
+    "mycelium_side.png": [
+        448,
+        256
+    ],
+    "mycelium_top.png": [
+        464,
+        256
+    ],
+    "netherite_block.png": [
+        480,
+        256
+    ],
+    "netherrack.png": [
+        496,
+        256
+    ],
+    "nether_bricks.png": [
+        0,
+        272
+    ],
+    "nether_gold_ore.png": [
+        16,
+        272
+    ],
+    "nether_quartz_ore.png": [
+        32,
+        272
+    ],
+    "nether_sprouts.png": [
+        48,
+        272
+    ],
+    "nether_wart_block.png": [
+        64,
+        272
+    ],
+    "nether_wart_stage0.png": [
+        80,
+        272
+    ],
+    "nether_wart_stage1.png": [
+        96,
+        272
+    ],
+    "nether_wart_stage2.png": [
+        112,
+        272
+    ],
+    "note_block.png": [
+        128,
+        272
+    ],
+    "oak_door_bottom.png": [
+        144,
+        272
+    ],
+    "oak_door_top.png": [
+        160,
+        272
+    ],
+    "oak_leaves.png": [
+        176,
+        272
+    ],
+    "oak_log.png": [
+        192,
+        272
+    ],
+    "oak_log_top.png": [
+        208,
+        272
+    ],
+    "oak_planks.png": [
+        224,
+        272
+    ],
+    "oak_sapling.png": [
+        240,
+        272
+    ],
+    "oak_trapdoor.png": [
+        256,
+        272
+    ],
+    "observer_back.png": [
+        272,
+        272
+    ],
+    "observer_back_on.png": [
+        288,
+        272
+    ],
+    "observer_front.png": [
+        304,
+        272
+    ],
+    "observer_side.png": [
+        320,
+        272
+    ],
+    "observer_top.png": [
+        336,
+        272
+    ],
+    "obsidian.png": [
+        352,
+        272
+    ],
+    "ochre_froglight_side.png": [
+        368,
+        272
+    ],
+    "ochre_froglight_top.png": [
+        384,
+        272
+    ],
+    "orange_candle.png": [
+        400,
+        272
+    ],
+    "orange_candle_lit.png": [
+        416,
+        272
+    ],
+    "orange_concrete.png": [
+        432,
+        272
+    ],
+    "orange_concrete_powder.png": [
+        448,
+        272
+    ],
+    "orange_glazed_terracotta.png": [
+        464,
+        272
+    ],
+    "orange_shulker_box.png": [
+        480,
+        272
+    ],
+    "orange_stained_glass.png": [
+        496,
+        272
+    ],
+    "orange_stained_glass_pane_top.png": [
+        0,
+        288
+    ],
+    "orange_terracotta.png": [
+        16,
+        288
+    ],
+    "orange_tulip.png": [
+        32,
+        288
+    ],
+    "orange_wool.png": [
+        48,
+        288
+    ],
+    "oxeye_daisy.png": [
+        64,
+        288
+    ],
+    "oxidized_chiseled_copper.png": [
+        80,
+        288
+    ],
+    "oxidized_copper.png": [
+        96,
+        288
+    ],
+    "oxidized_copper_bulb.png": [
+        112,
+        288
+    ],
+    "oxidized_copper_bulb_lit.png": [
+        128,
+        288
+    ],
+    "oxidized_copper_bulb_lit_powered.png": [
+        144,
+        288
+    ],
+    "oxidized_copper_bulb_powered.png": [
+        160,
+        288
+    ],
+    "oxidized_copper_door_bottom.png": [
+        176,
+        288
+    ],
+    "oxidized_copper_door_top.png": [
+        192,
+        288
+    ],
+    "oxidized_copper_grate.png": [
+        208,
+        288
+    ],
+    "oxidized_copper_trapdoor.png": [
+        224,
+        288
+    ],
+    "oxidized_cut_copper.png": [
+        240,
+        288
+    ],
+    "packed_ice.png": [
+        256,
+        288
+    ],
+    "packed_mud.png": [
+        272,
+        288
+    ],
+    "pearlescent_froglight_side.png": [
+        288,
+        288
+    ],
+    "pearlescent_froglight_top.png": [
+        304,
+        288
+    ],
+    "peony_bottom.png": [
+        320,
+        288
+    ],
+    "peony_top.png": [
+        336,
+        288
+    ],
+    "pink_candle.png": [
+        352,
+        288
+    ],
+    "pink_candle_lit.png": [
+        368,
+        288
+    ],
+    "pink_concrete.png": [
+        384,
+        288
+    ],
+    "pink_concrete_powder.png": [
+        400,
+        288
+    ],
+    "pink_glazed_terracotta.png": [
+        416,
+        288
+    ],
+    "pink_petals.png": [
+        432,
+        288
+    ],
+    "pink_petals_stem.png": [
+        448,
+        288
+    ],
+    "pink_shulker_box.png": [
+        464,
+        288
+    ],
+    "pink_stained_glass.png": [
+        480,
+        288
+    ],
+    "pink_stained_glass_pane_top.png": [
+        496,
+        288
+    ],
+    "pink_terracotta.png": [
+        0,
+        304
+    ],
+    "pink_tulip.png": [
+        16,
+        304
+    ],
+    "pink_wool.png": [
+        32,
+        304
+    ],
+    "piston_bottom.png": [
+        48,
+        304
+    ],
+    "piston_inner.png": [
+        64,
+        304
+    ],
+    "piston_side.png": [
+        80,
+        304
+    ],
+    "piston_top.png": [
+        96,
+        304
+    ],
+    "piston_top_sticky.png": [
+        112,
+        304
+    ],
+    "pitcher_crop_bottom.png": [
+        128,
+        304
+    ],
+    "pitcher_crop_bottom_stage_1.png": [
+        144,
+        304
+    ],
+    "pitcher_crop_bottom_stage_2.png": [
+        160,
+        304
+    ],
+    "pitcher_crop_bottom_stage_3.png": [
+        176,
+        304
+    ],
+    "pitcher_crop_bottom_stage_4.png": [
+        192,
+        304
+    ],
+    "pitcher_crop_side.png": [
+        208,
+        304
+    ],
+    "pitcher_crop_top.png": [
+        224,
+        304
+    ],
+    "pitcher_crop_top_stage_3.png": [
+        240,
+        304
+    ],
+    "pitcher_crop_top_stage_4.png": [
+        256,
+        304
+    ],
+    "podzol_side.png": [
+        272,
+        304
+    ],
+    "podzol_top.png": [
+        288,
+        304
+    ],
+    "pointed_dripstone_down_base.png": [
+        304,
+        304
+    ],
+    "pointed_dripstone_down_frustum.png": [
+        320,
+        304
+    ],
+    "pointed_dripstone_down_middle.png": [
+        336,
+        304
+    ],
+    "pointed_dripstone_down_tip.png": [
+        352,
+        304
+    ],
+    "pointed_dripstone_down_tip_merge.png": [
+        368,
+        304
+    ],
+    "pointed_dripstone_up_base.png": [
+        384,
+        304
+    ],
+    "pointed_dripstone_up_frustum.png": [
+        400,
+        304
+    ],
+    "pointed_dripstone_up_middle.png": [
+        416,
+        304
+    ],
+    "pointed_dripstone_up_tip.png": [
+        432,
+        304
+    ],
+    "pointed_dripstone_up_tip_merge.png": [
+        448,
+        304
+    ],
+    "polished_andesite.png": [
+        464,
+        304
+    ],
+    "polished_basalt_side.png": [
+        480,
+        304
+    ],
+    "polished_basalt_top.png": [
+        496,
+        304
+    ],
+    "polished_blackstone.png": [
+        0,
+        320
+    ],
+    "polished_blackstone_bricks.png": [
+        16,
+        320
+    ],
+    "polished_deepslate.png": [
+        32,
+        320
+    ],
+    "polished_diorite.png": [
+        48,
+        320
+    ],
+    "polished_granite.png": [
+        64,
+        320
+    ],
+    "polished_tuff.png": [
+        80,
+        320
+    ],
+    "poppy.png": [
+        96,
+        320
+    ],
+    "potatoes_stage0.png": [
+        112,
+        320
+    ],
+    "potatoes_stage1.png": [
+        128,
+        320
+    ],
+    "potatoes_stage2.png": [
+        144,
+        320
+    ],
+    "potatoes_stage3.png": [
+        160,
+        320
+    ],
+    "potted_azalea_bush_plant.png": [
+        176,
+        320
+    ],
+    "potted_azalea_bush_side.png": [
+        192,
+        320
+    ],
+    "potted_azalea_bush_top.png": [
+        208,
+        320
+    ],
+    "potted_flowering_azalea_bush_plant.png": [
+        224,
+        320
+    ],
+    "potted_flowering_azalea_bush_side.png": [
+        240,
+        320
+    ],
+    "potted_flowering_azalea_bush_top.png": [
+        256,
+        320
+    ],
+    "powder_snow.png": [
+        272,
+        320
+    ],
+    "powered_rail.png": [
+        288,
+        320
+    ],
+    "powered_rail_on.png": [
+        304,
+        320
+    ],
+    "prismarine_bricks.png": [
+        320,
+        320
+    ],
+    "pumpkin_side.png": [
+        336,
+        320
+    ],
+    "pumpkin_stem.png": [
+        352,
+        320
+    ],
+    "pumpkin_top.png": [
+        368,
+        320
+    ],
+    "purple_candle.png": [
+        384,
+        320
+    ],
+    "purple_candle_lit.png": [
+        400,
+        320
+    ],
+    "purple_concrete.png": [
+        416,
+        320
+    ],
+    "purple_concrete_powder.png": [
+        432,
+        320
+    ],
+    "purple_glazed_terracotta.png": [
+        448,
+        320
+    ],
+    "purple_shulker_box.png": [
+        464,
+        320
+    ],
+    "purple_stained_glass.png": [
+        480,
+        320
+    ],
+    "purple_stained_glass_pane_top.png": [
+        496,
+        320
+    ],
+    "purple_terracotta.png": [
+        0,
+        336
+    ],
+    "purple_wool.png": [
+        16,
+        336
+    ],
+    "purpur_block.png": [
+        32,
+        336
+    ],
+    "purpur_pillar.png": [
+        48,
+        336
+    ],
+    "purpur_pillar_top.png": [
+        64,
+        336
+    ],
+    "quartz_block_bottom.png": [
+        80,
+        336
+    ],
+    "quartz_block_side.png": [
+        96,
+        336
+    ],
+    "quartz_block_top.png": [
+        112,
+        336
+    ],
+    "quartz_bricks.png": [
+        128,
+        336
+    ],
+    "quartz_pillar.png": [
+        144,
+        336
+    ],
+    "quartz_pillar_top.png": [
+        160,
+        336
+    ],
+    "rail.png": [
+        176,
+        336
+    ],
+    "rail_corner.png": [
+        192,
+        336
+    ],
+    "raw_copper_block.png": [
+        208,
+        336
+    ],
+    "raw_gold_block.png": [
+        224,
+        336
+    ],
+    "raw_iron_block.png": [
+        240,
+        336
+    ],
+    "redstone_block.png": [
+        256,
+        336
+    ],
+    "redstone_dust_dot.png": [
+        272,
+        336
+    ],
+    "redstone_dust_line0.png": [
+        288,
+        336
+    ],
+    "redstone_dust_line1.png": [
+        304,
+        336
+    ],
+    "redstone_dust_overlay.png": [
+        320,
+        336
+    ],
+    "redstone_lamp.png": [
+        336,
+        336
+    ],
+    "redstone_lamp_on.png": [
+        352,
+        336
+    ],
+    "redstone_ore.png": [
+        368,
+        336
+    ],
+    "redstone_torch.png": [
+        384,
+        336
+    ],
+    "redstone_torch_off.png": [
+        400,
+        336
+    ],
+    "red_candle.png": [
+        416,
+        336
+    ],
+    "red_candle_lit.png": [
+        432,
+        336
+    ],
+    "red_concrete.png": [
+        448,
+        336
+    ],
+    "red_concrete_powder.png": [
+        464,
+        336
+    ],
+    "red_glazed_terracotta.png": [
+        480,
+        336
+    ],
+    "red_mushroom.png": [
+        496,
+        336
+    ],
+    "red_mushroom_block.png": [
+        0,
+        352
+    ],
+    "red_nether_bricks.png": [
+        16,
+        352
+    ],
+    "red_sand.png": [
+        32,
+        352
+    ],
+    "red_sandstone.png": [
+        48,
+        352
+    ],
+    "red_sandstone_bottom.png": [
+        64,
+        352
+    ],
+    "red_sandstone_top.png": [
+        80,
+        352
+    ],
+    "red_shulker_box.png": [
+        96,
+        352
+    ],
+    "red_stained_glass.png": [
+        112,
+        352
+    ],
+    "red_stained_glass_pane_top.png": [
+        128,
+        352
+    ],
+    "red_terracotta.png": [
+        144,
+        352
+    ],
+    "red_tulip.png": [
+        160,
+        352
+    ],
+    "red_wool.png": [
+        176,
+        352
+    ],
+    "reinforced_deepslate_bottom.png": [
+        192,
+        352
+    ],
+    "reinforced_deepslate_side.png": [
+        208,
+        352
+    ],
+    "reinforced_deepslate_top.png": [
+        224,
+        352
+    ],
+    "repeater.png": [
+        240,
+        352
+    ],
+    "repeater_on.png": [
+        256,
+        352
+    ],
+    "respawn_anchor_bottom.png": [
+        272,
+        352
+    ],
+    "respawn_anchor_side0.png": [
+        288,
+        352
+    ],
+    "respawn_anchor_side1.png": [
+        304,
+        352
+    ],
+    "respawn_anchor_side2.png": [
+        320,
+        352
+    ],
+    "respawn_anchor_side3.png": [
+        336,
+        352
+    ],
+    "respawn_anchor_side4.png": [
+        352,
+        352
+    ],
+    "respawn_anchor_top_off.png": [
+        368,
+        352
+    ],
+    "rooted_dirt.png": [
+        384,
+        352
+    ],
+    "rose_bush_bottom.png": [
+        400,
+        352
+    ],
+    "rose_bush_top.png": [
+        416,
+        352
+    ],
+    "sand.png": [
+        432,
+        352
+    ],
+    "sandstone.png": [
+        448,
+        352
+    ],
+    "sandstone_bottom.png": [
+        464,
+        352
+    ],
+    "sandstone_top.png": [
+        480,
+        352
+    ],
+    "scaffolding_bottom.png": [
+        496,
+        352
+    ],
+    "scaffolding_side.png": [
+        0,
+        368
+    ],
+    "scaffolding_top.png": [
+        16,
+        368
+    ],
+    "sculk_catalyst_bottom.png": [
+        32,
+        368
+    ],
+    "sculk_catalyst_side.png": [
+        48,
+        368
+    ],
+    "sculk_catalyst_top.png": [
+        64,
+        368
+    ],
+    "sculk_sensor_bottom.png": [
+        80,
+        368
+    ],
+    "sculk_sensor_side.png": [
+        96,
+        368
+    ],
+    "sculk_sensor_top.png": [
+        112,
+        368
+    ],
+    "sculk_shrieker_bottom.png": [
+        128,
+        368
+    ],
+    "sculk_shrieker_side.png": [
+        144,
+        368
+    ],
+    "sculk_shrieker_top.png": [
+        160,
+        368
+    ],
+    "sea_pickle.png": [
+        176,
+        368
+    ],
+    "short_grass.png": [
+        192,
+        368
+    ],
+    "shroomlight.png": [
+        208,
+        368
+    ],
+    "shulker_box.png": [
+        224,
+        368
+    ],
+    "sky.png": [
+        240,
+        368
+    ],
+    "slime_block.png": [
+        256,
+        368
+    ],
+    "small_amethyst_bud.png": [
+        272,
+        368
+    ],
+    "small_dripleaf_side.png": [
+        288,
+        368
+    ],
+    "small_dripleaf_stem_bottom.png": [
+        304,
+        368
+    ],
+    "small_dripleaf_stem_top.png": [
+        320,
+        368
+    ],
+    "small_dripleaf_top.png": [
+        336,
+        368
+    ],
+    "smithing_table_bottom.png": [
+        352,
+        368
+    ],
+    "smithing_table_front.png": [
+        368,
+        368
+    ],
+    "smithing_table_side.png": [
+        384,
+        368
+    ],
+    "smithing_table_top.png": [
+        400,
+        368
+    ],
+    "smoker_bottom.png": [
+        416,
+        368
+    ],
+    "smoker_front.png": [
+        432,
+        368
+    ],
+    "smoker_side.png": [
+        448,
+        368
+    ],
+    "smoker_top.png": [
+        464,
+        368
+    ],
+    "smooth_basalt.png": [
+        480,
+        368
+    ],
+    "smooth_stone.png": [
+        496,
+        368
+    ],
+    "smooth_stone_slab_side.png": [
+        0,
+        384
+    ],
+    "sniffer_egg_not_cracked_bottom.png": [
+        16,
+        384
+    ],
+    "sniffer_egg_not_cracked_east.png": [
+        32,
+        384
+    ],
+    "sniffer_egg_not_cracked_north.png": [
+        48,
+        384
+    ],
+    "sniffer_egg_not_cracked_south.png": [
+        64,
+        384
+    ],
+    "sniffer_egg_not_cracked_top.png": [
+        80,
+        384
+    ],
+    "sniffer_egg_not_cracked_west.png": [
+        96,
+        384
+    ],
+    "sniffer_egg_slightly_cracked_bottom.png": [
+        112,
+        384
+    ],
+    "sniffer_egg_slightly_cracked_east.png": [
+        128,
+        384
+    ],
+    "sniffer_egg_slightly_cracked_north.png": [
+        144,
+        384
+    ],
+    "sniffer_egg_slightly_cracked_south.png": [
+        160,
+        384
+    ],
+    "sniffer_egg_slightly_cracked_top.png": [
+        176,
+        384
+    ],
+    "sniffer_egg_slightly_cracked_west.png": [
+        192,
+        384
+    ],
+    "sniffer_egg_very_cracked_bottom.png": [
+        208,
+        384
+    ],
+    "sniffer_egg_very_cracked_east.png": [
+        224,
+        384
+    ],
+    "sniffer_egg_very_cracked_north.png": [
+        240,
+        384
+    ],
+    "sniffer_egg_very_cracked_south.png": [
+        256,
+        384
+    ],
+    "sniffer_egg_very_cracked_top.png": [
+        272,
+        384
+    ],
+    "sniffer_egg_very_cracked_west.png": [
+        288,
+        384
+    ],
+    "snow.png": [
+        304,
+        384
+    ],
+    "soul_sand.png": [
+        320,
+        384
+    ],
+    "soul_soil.png": [
+        336,
+        384
+    ],
+    "soul_torch.png": [
+        352,
+        384
+    ],
+    "spawner.png": [
+        368,
+        384
+    ],
+    "sponge.png": [
+        384,
+        384
+    ],
+    "spore_blossom.png": [
+        400,
+        384
+    ],
+    "spore_blossom_base.png": [
+        416,
+        384
+    ],
+    "spruce_door_bottom.png": [
+        432,
+        384
+    ],
+    "spruce_door_top.png": [
+        448,
+        384
+    ],
+    "spruce_leaves.png": [
+        464,
+        384
+    ],
+    "spruce_log.png": [
+        480,
+        384
+    ],
+    "spruce_log_top.png": [
+        496,
+        384
+    ],
+    "spruce_planks.png": [
+        0,
+        400
+    ],
+    "spruce_sapling.png": [
+        16,
+        400
+    ],
+    "spruce_trapdoor.png": [
+        32,
+        400
+    ],
+    "stone.png": [
+        48,
+        400
+    ],
+    "stonecutter_bottom.png": [
+        64,
+        400
+    ],
+    "stonecutter_side.png": [
+        80,
+        400
+    ],
+    "stonecutter_top.png": [
+        96,
+        400
+    ],
+    "stone_bricks.png": [
+        112,
+        400
+    ],
+    "stripped_acacia_log.png": [
+        128,
+        400
+    ],
+    "stripped_acacia_log_top.png": [
+        144,
+        400
+    ],
+    "stripped_bamboo_block.png": [
+        160,
+        400
+    ],
+    "stripped_bamboo_block_top.png": [
+        176,
+        400
+    ],
+    "stripped_birch_log.png": [
+        192,
+        400
+    ],
+    "stripped_birch_log_top.png": [
+        208,
+        400
+    ],
+    "stripped_cherry_log.png": [
+        224,
+        400
+    ],
+    "stripped_cherry_log_top.png": [
+        240,
+        400
+    ],
+    "stripped_crimson_stem.png": [
+        256,
+        400
+    ],
+    "stripped_crimson_stem_top.png": [
+        272,
+        400
+    ],
+    "stripped_dark_oak_log.png": [
+        288,
+        400
+    ],
+    "stripped_dark_oak_log_top.png": [
+        304,
+        400
+    ],
+    "stripped_jungle_log.png": [
+        320,
+        400
+    ],
+    "stripped_jungle_log_top.png": [
+        336,
+        400
+    ],
+    "stripped_mangrove_log.png": [
+        352,
+        400
+    ],
+    "stripped_mangrove_log_top.png": [
+        368,
+        400
+    ],
+    "stripped_oak_log.png": [
+        384,
+        400
+    ],
+    "stripped_oak_log_top.png": [
+        400,
+        400
+    ],
+    "stripped_spruce_log.png": [
+        416,
+        400
+    ],
+    "stripped_spruce_log_top.png": [
+        432,
+        400
+    ],
+    "stripped_warped_stem.png": [
+        448,
+        400
+    ],
+    "stripped_warped_stem_top.png": [
+        464,
+        400
+    ],
+    "structure_block.png": [
+        480,
+        400
+    ],
+    "structure_block_corner.png": [
+        496,
+        400
+    ],
+    "structure_block_data.png": [
+        0,
+        416
+    ],
+    "structure_block_load.png": [
+        16,
+        416
+    ],
+    "structure_block_save.png": [
+        32,
+        416
+    ],
+    "sugar_cane.png": [
+        48,
+        416
+    ],
+    "sunflower_back.png": [
+        64,
+        416
+    ],
+    "sunflower_bottom.png": [
+        80,
+        416
+    ],
+    "sunflower_front.png": [
+        96,
+        416
+    ],
+    "sunflower_top.png": [
+        112,
+        416
+    ],
+    "suspicious_gravel_0.png": [
+        128,
+        416
+    ],
+    "suspicious_gravel_1.png": [
+        144,
+        416
+    ],
+    "suspicious_gravel_2.png": [
+        160,
+        416
+    ],
+    "suspicious_gravel_3.png": [
+        176,
+        416
+    ],
+    "suspicious_sand_0.png": [
+        192,
+        416
+    ],
+    "suspicious_sand_1.png": [
+        208,
+        416
+    ],
+    "suspicious_sand_2.png": [
+        224,
+        416
+    ],
+    "suspicious_sand_3.png": [
+        240,
+        416
+    ],
+    "sweet_berry_bush_stage0.png": [
+        256,
+        416
+    ],
+    "sweet_berry_bush_stage1.png": [
+        272,
+        416
+    ],
+    "sweet_berry_bush_stage2.png": [
+        288,
+        416
+    ],
+    "sweet_berry_bush_stage3.png": [
+        304,
+        416
+    ],
+    "tall_grass_bottom.png": [
+        320,
+        416
+    ],
+    "tall_grass_top.png": [
+        336,
+        416
+    ],
+    "target_side.png": [
+        352,
+        416
+    ],
+    "target_top.png": [
+        368,
+        416
+    ],
+    "terracotta.png": [
+        384,
+        416
+    ],
+    "tinted_glass.png": [
+        400,
+        416
+    ],
+    "tnt_bottom.png": [
+        416,
+        416
+    ],
+    "tnt_side.png": [
+        432,
+        416
+    ],
+    "tnt_top.png": [
+        448,
+        416
+    ],
+    "torch.png": [
+        464,
+        416
+    ],
+    "torchflower.png": [
+        480,
+        416
+    ],
+    "torchflower_crop_stage0.png": [
+        496,
+        416
+    ],
+    "torchflower_crop_stage1.png": [
+        0,
+        432
+    ],
+    "trial_spawner_bottom.png": [
+        16,
+        432
+    ],
+    "trial_spawner_side_active.png": [
+        32,
+        432
+    ],
+    "trial_spawner_side_inactive.png": [
+        48,
+        432
+    ],
+    "trial_spawner_top_active.png": [
+        64,
+        432
+    ],
+    "trial_spawner_top_ejecting_reward.png": [
+        80,
+        432
+    ],
+    "trial_spawner_top_inactive.png": [
+        96,
+        432
+    ],
+    "tripwire.png": [
+        112,
+        432
+    ],
+    "tripwire_hook.png": [
+        128,
+        432
+    ],
+    "tube_coral.png": [
+        144,
+        432
+    ],
+    "tube_coral_block.png": [
+        160,
+        432
+    ],
+    "tube_coral_fan.png": [
+        176,
+        432
+    ],
+    "tuff.png": [
+        192,
+        432
+    ],
+    "tuff_bricks.png": [
+        208,
+        432
+    ],
+    "turtle_egg.png": [
+        224,
+        432
+    ],
+    "turtle_egg_slightly_cracked.png": [
+        240,
+        432
+    ],
+    "turtle_egg_very_cracked.png": [
+        256,
+        432
+    ],
+    "twisting_vines.png": [
+        272,
+        432
+    ],
+    "twisting_vines_plant.png": [
+        288,
+        432
+    ],
+    "verdant_froglight_side.png": [
+        304,
+        432
+    ],
+    "verdant_froglight_top.png": [
+        320,
+        432
+    ],
+    "vine.png": [
+        336,
+        432
+    ],
+    "warped_door_bottom.png": [
+        352,
+        432
+    ],
+    "warped_door_top.png": [
+        368,
+        432
+    ],
+    "warped_fungus.png": [
+        384,
+        432
+    ],
+    "warped_nylium.png": [
+        400,
+        432
+    ],
+    "warped_nylium_side.png": [
+        416,
+        432
+    ],
+    "warped_planks.png": [
+        432,
+        432
+    ],
+    "warped_roots.png": [
+        448,
+        432
+    ],
+    "warped_roots_pot.png": [
+        464,
+        432
+    ],
+    "warped_stem_top.png": [
+        480,
+        432
+    ],
+    "warped_trapdoor.png": [
+        496,
+        432
+    ],
+    "warped_wart_block.png": [
+        0,
+        448
+    ],
+    "water_overlay.png": [
+        16,
+        448
+    ],
+    "weathered_chiseled_copper.png": [
+        32,
+        448
+    ],
+    "weathered_copper.png": [
+        48,
+        448
+    ],
+    "weathered_copper_bulb.png": [
+        64,
+        448
+    ],
+    "weathered_copper_bulb_lit.png": [
+        80,
+        448
+    ],
+    "weathered_copper_bulb_lit_powered.png": [
+        96,
+        448
+    ],
+    "weathered_copper_bulb_powered.png": [
+        112,
+        448
+    ],
+    "weathered_copper_door_bottom.png": [
+        128,
+        448
+    ],
+    "weathered_copper_door_top.png": [
+        144,
+        448
+    ],
+    "weathered_copper_grate.png": [
+        160,
+        448
+    ],
+    "weathered_copper_trapdoor.png": [
+        176,
+        448
+    ],
+    "weathered_cut_copper.png": [
+        192,
+        448
+    ],
+    "weeping_vines.png": [
+        208,
+        448
+    ],
+    "weeping_vines_plant.png": [
+        224,
+        448
+    ],
+    "wet_sponge.png": [
+        240,
+        448
+    ],
+    "wheat_stage0.png": [
+        256,
+        448
+    ],
+    "wheat_stage1.png": [
+        272,
+        448
+    ],
+    "wheat_stage2.png": [
+        288,
+        448
+    ],
+    "wheat_stage3.png": [
+        304,
+        448
+    ],
+    "wheat_stage4.png": [
+        320,
+        448
+    ],
+    "wheat_stage5.png": [
+        336,
+        448
+    ],
+    "wheat_stage6.png": [
+        352,
+        448
+    ],
+    "wheat_stage7.png": [
+        368,
+        448
+    ],
+    "white_candle.png": [
+        384,
+        448
+    ],
+    "white_candle_lit.png": [
+        400,
+        448
+    ],
+    "white_concrete.png": [
+        416,
+        448
+    ],
+    "white_concrete_powder.png": [
+        432,
+        448
+    ],
+    "white_glazed_terracotta.png": [
+        448,
+        448
+    ],
+    "white_shulker_box.png": [
+        464,
+        448
+    ],
+    "white_stained_glass.png": [
+        480,
+        448
+    ],
+    "white_stained_glass_pane_top.png": [
+        496,
+        448
+    ],
+    "white_terracotta.png": [
+        0,
+        464
+    ],
+    "white_tulip.png": [
+        16,
+        464
+    ],
+    "white_wool.png": [
+        32,
+        464
+    ],
+    "wither_rose.png": [
+        48,
+        464
+    ],
+    "yellow_candle.png": [
+        64,
+        464
+    ],
+    "yellow_candle_lit.png": [
+        80,
+        464
+    ],
+    "yellow_concrete.png": [
+        96,
+        464
+    ],
+    "yellow_concrete_powder.png": [
+        112,
+        464
+    ],
+    "yellow_glazed_terracotta.png": [
+        128,
+        464
+    ],
+    "yellow_shulker_box.png": [
+        144,
+        464
+    ],
+    "yellow_stained_glass.png": [
+        160,
+        464
+    ],
+    "yellow_stained_glass_pane_top.png": [
+        176,
+        464
+    ],
+    "yellow_terracotta.png": [
+        192,
+        464
+    ],
+    "yellow_wool.png": [
+        208,
+        464
+    ]
+}

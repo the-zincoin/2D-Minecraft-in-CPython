@@ -1,0 +1,17 @@
+{
+    "settings":{
+        "render_distance":1,
+        "velocity":8,
+        "max_frame_rate": 60,
+        "master_volume":95,
+        "music_volume_game":95,
+        "full_screen":0,
+        "cache_storage_space":50,
+        "music_volume_menu":95
+    },
+    "worldAttr":{
+        "world_name":"",
+        "seed":0
+    }
+
+}

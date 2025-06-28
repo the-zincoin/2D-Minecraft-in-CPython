@@ -1,0 +1,15 @@
+{
+    "menuscreen":{
+        "music":{
+            "main":"music/subwoofer_lullaby.mp3"
+        },
+        "sound":{
+        "buttonClickSound":"sound_effect/button_click_sound.mp3"
+        }
+    },
+    "game":{
+        "music":{
+            "main":"music/sweden.mp3"
+        }
+    }
+}

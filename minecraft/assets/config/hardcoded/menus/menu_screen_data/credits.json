@@ -1,0 +1,27 @@
+{
+    "config":
+    [
+        {
+            "ID":"btnDone",
+            "displayedText":"Done",
+            "position":[1000,600],
+            "elementType":"chab",
+            "nextScreen": "title_screen",
+            "chainedElements":[]
+        }
+    ],
+    "misc":{
+        "type":
+        "nh",
+        "previousScreen":
+        "title_screen",
+        "backGround":
+        "bgSubMenus",
+        "text" :[
+            "Created by @Mysterio as 2D Minecraft Project.",
+            "Written in Visual Studio Code in CPython and Pygame Graphic Library.",
+            "NOT AN OFFICIAL PRODUCT created by Mojang! DO NOT SELL.",
+            "ALL RIGHTS BELONG TO MOJANG STUDIOS."
+        ]
+    }
+}

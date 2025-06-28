@@ -1,0 +1,30 @@
+{
+    "config":
+    [
+        {
+            "ID": "btnCreateNewWorld",
+            "displayedText":"Create New World",
+            "position":[1000,400],
+            "elementType":"chab",
+            "nextScreen": "generate_world",
+            "chainedElements":[]
+        },
+        {
+            "ID": "btnPlaySelectedWorld",
+            "displayedText":"Play Selected World",
+            "position":[1000,500],
+            "elementType":"chab",
+            "nextScreen": "load_world",
+            "chainedElements":[]
+        }
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "nh",
+        "previousScreen":
+        "title_screen"
+    }
+}
