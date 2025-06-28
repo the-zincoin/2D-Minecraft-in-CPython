@@ -1,0 +1,14 @@
+{
+    "settings":{
+        "Render Distance":6,
+        "Velocity":12,
+        "Max Frame Rate": 73,
+        "Master Volume":100,
+        "Music Volume":100
+    },
+    "worldAttr":{
+        "WorldName":"",
+        "Seed":0
+    }
+
+}

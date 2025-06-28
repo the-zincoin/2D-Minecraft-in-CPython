@@ -1,0 +1,308 @@
+{
+    "titleScreen": {
+        "config":
+        [
+            {
+                "path": "buttonSingleplayer",
+                "position":[1000,450],
+                "elementType": "b",
+                "nextScreen": "openGame",
+                "chainedElements":[]
+            },
+            {
+                "path": "buttonCredits",
+                "position":[1000,550],
+                "elementType": "b",
+                "nextScreen": "credits",
+                "chainedElements":[]
+            },
+            {
+                "path": "buttonOptions",
+                "position":[866,650],
+                "elementType": "b",
+                "nextScreen": "options",
+                "chainedElements":[]
+            },
+            {
+                "path": "buttonQuitGame",
+                "position":[1133,650],
+                "elementType": "b",
+                "nextScreen": "closegame",
+                "chainedElements":[]
+            }
+        ],
+        "backGround":
+        "TitleScreen",
+        "text":"",
+        "type":
+        "nh",
+        "previousScreen":
+        ""
+    },
+    "credits":{
+        "config":
+        [
+            {
+                "path":"DoneBtn",
+                "position":[1000,600],
+                "elementType": "b",
+                "nextScreen": "titleScreen",
+                "chainedElements":[]
+            }
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text" :[
+            "Created by @Mysterio as 2D Minecraft Project.",
+            "Written in Visual Studio Code in CPython and Pygame Graphic Library.",
+            "NOT AN OFFICIAL PRODUCT created by Mojang! DO NOT SELL.",
+            "ALL RIGHTS BELONG TO MOJANG STUDIOS."
+        ],
+        "type":
+        "nh",
+        "previousScreen":
+        "titleScreen"
+    },
+    "options": {
+        "config":
+        [
+            {
+                "path":"VideoSettings",
+                "position":[1000,300],
+                "elementType": "b",
+                "nextScreen": "videoSettings",
+                "chainedElements":[]
+            },
+            {
+                "path":"WorldCustomization",
+                "position":[1000,400],
+                "elementType": "b",
+                "nextScreen": "worldCustomization",
+                "chainedElements":[]
+            },
+            {
+                "path":"MusicnSounds",
+                "position":[1000,500],
+                "elementType": "b",
+                "nextScreen": "musicnSounds",
+                "chainedElements":[]
+            },
+            {
+                "path":"DoneBtn",
+                "position":[1000,600],
+                "elementType": "b",
+                "nextScreen": "titleScreen",
+                "chainedElements":[]
+            }
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "titleScreen"
+        
+    },
+    "videoSettings":{
+        "config":
+        [
+            {
+                "text":"Render Distance",
+                "dimensions":[400,55],
+                "valueConstraints":[1,10],
+                "position":["half",300],
+                "elementType":"s",
+                "iEType":"settings"
+            },
+            {
+                "text":"Max Frame Rate",
+                "dimensions":[400,55],
+                "valueConstraints":[30,120],
+                "position":["half",400],
+                "elementType":"s",
+                "iEType":"settings"
+            },
+            {
+                "path":"DoneBtn",
+                "position":[1000,500],
+                "elementType": "b",
+                "nextScreen": "options",
+                "chainedElements":[
+                    "Render Distance",
+                    "Max Frame Rate"
+                ]
+            }
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+
+    },
+    "worldCustomization":{
+        "config":[
+            {
+                "text":"Velocity",
+                "dimensions":[400,55],
+                "valueConstraints":[4,20],
+                "position":["half",400],
+                "elementType":"s",
+                "iEType":"settings"
+            },
+            {
+                "path":"DoneBtn",
+                "position":[1000,500],
+                "elementType": "b",
+                "nextScreen": "options",
+                "chainedElements":[
+                    "Velocity"
+                ]
+            }
+
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+    },
+    "musicnSounds":{
+        "config":[
+            {
+                "text":"Master Volume",
+                "dimensions":[400,55],
+                "valueConstraints":[0,100],
+                "position":["half",400],
+                "elementType":"s",
+                "iEType":"settings"
+            },
+            {
+                "text":"Music Volume",
+                "dimensions":[400,55],
+                "valueConstraints":[0,100],
+                "position":["half",500],
+                "elementType":"s",
+                "iEType":"settings"
+            },
+            {
+                "path":"DoneBtn",
+                "position":[1000,600],
+                "elementType": "b",
+                "nextScreen": "options",
+                "chainedElements":[
+                    "Master Volume",
+                    "Music Volume"
+                ]
+            }
+
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+    },
+    "openGame": {
+        "config":
+        [
+            {
+                "path": "buttonCreateNewWorld",
+                "position":[1000,400],
+                "elementType": "b",
+                "nextScreen": "generate",
+                "chainedElements":[]
+            },
+            {
+                "path": "buttonPlaySelectedWorld",
+                "position":[1000,500],
+                "elementType": "b",
+                "nextScreen": "load",
+                "chainedElements":[]
+            }
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "nh",
+        "previousScreen":
+        "titleScreen"
+    },
+    "generate":{
+        "config":
+        [
+            {
+                "path":"CreateBtn",
+                "position":[1000,600],
+                "elementType":"b",
+                "nextScreen":"game",
+                "chainedElements":
+                [
+                    "WorldName",
+                    "Seed"
+                ]
+            },
+            {
+                "text":"WorldName",
+                "position":[1000, 350],
+                "size":[350, 55],
+                "elementType":"i",
+                "iEType":"worldAttr"
+
+
+            },
+            {
+                "text":"Seed",
+                "position":[1000, 460],
+                "size":[350,55],
+                "elementType":"i",
+                "iEType":"worldAttr"
+            }
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "openGame"
+    },
+    "load":
+    {
+        "config":
+        [
+            {
+                "path":"LoadBtn",
+                "position":[1000,500],
+                "elementType":"b",
+                "nextScreen":"game",
+                "chainedElements":
+                [
+                    "WorldName"
+                ]
+            },
+            {
+                "text":"WorldName",
+                "position":[1000,400],
+                "size":[350,55],
+                "elementType":"i",
+                "iEType":"worldAttr"
+            }
+        ],
+        "backGround":
+        "OpenGameBG",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "openGame"
+    }
+}

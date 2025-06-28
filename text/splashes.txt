@@ -1,0 +1,340 @@
+As seen on TV!
+Awesome!
+May contain nuts!
+Moderately attractive!
+Limited edition!
+Flashing letters!
+Referring to the flashing of the splash text itself.
+It's here!
+Best in class!
+A frequently-used catchphrase in car commercials.
+It's finished!
+Kind of dragon free!
+Excitement!
+One of a kind!
+Heaps of hits on YouTube!
+Indev!
+Spiders everywhere!
+Check it out!
+Holy cow, man!
+It's a game!
+Made in Sweden!
+Uses LWJGL!
+Reticulating splines!
+Minecraft!
+The name of the game.
+Yaaay!
+Singleplayer!
+Keyboard compatible!
+Ingots!
+Exploding creepers!
+That's no moon!
+Create!
+Survive!
+Dungeon!
+Exclusive!
+The bee's knees!
+Closed source!
+Classy!
+Wow!
+Not on Steam!
+Oh man!
+Awesome community!
+Pixels!
+Teetsuuuuoooo!
+Kaaneeeedaaaa!
+Now with difficulty!
+Difficulty may be set to Peaceful, Easy, Normal, or Hard.
+Enhanced!
+Pretty!
+Fat free!
+Often an advertising point on food, directed at people attempting to lose or keep from gaining weight.
+Absolutely no memes!
+Free dental!
+Ask your doctor!
+Similar to 'As seen on TV', said at some point in almost every pharmaceutical advertisement.
+Minors welcome!
+A pun on 'miners' being a homophone of 'minors', and the game is commonly played among children.
+Cloud computing!
+Legal in Finland!
+Hard to label!
+Technically good!
+Bringing home the bacon!
+Bringing home the bacon is a phrase that, similar to 'breadwinner', refers to providing for a group of people or household.
+Indie!
+GOTY!
+Ceci n'est pas une title screen!
+Inspirational!
+Herregud!
+Swedish for 'Oh My God!'
+Complex cellular automata!
+Yes, sir!
+Played by cowboys!
+Thousands of colors!
+Try it!
+Age of Wonders is better!
+Try the mushroom stew!
+Sensational!
+Hot tamale, hot hot tamale!
+Play him off, keyboard cat!
+This referring to a cat theme computer keyboard.
+Guaranteed!
+A common marketing term.
+Macroscopic!
+Macroscopic is a word that means 'visible,' the way splash texts are.
+Bring it on!
+Random splash!
+Different splash texts appear randomly, just like this one.
+Call your mother!
+Monster infighting!
+Loved by millions!
+Ultimate edition!
+A common marketing term.
+Freaky!
+You've got a brand new key!
+Water proof!
+A common marketing term.
+Uninflammable!
+A joke on the fact that 'inflammable' is often mistaken to mean 'not flammable' due to the 'in-' prefix.
+Whoa, dude!
+All inclusive!
+Tell your friends!
+NP is not in P!
+Livestreamed!
+Haunted!
+Polynomial!
+Terrestrial!
+All is full of love!
+Full of stars!
+Scientific!
+Not as cool as Spock!
+Collaborate and listen!
+Never dig down!
+Take frequent breaks!
+Not linear!
+Han shot first!
+Nice to meet you!
+A common phrase often used to greet others.
+Buckets of lava!
+Ride the pig!
+Larger than Earth!
+Phobos anomaly!
+Punching wood!
+Falling off cliffs!
+Synecdoche!
+Let's danec!
+Seecret Friday update!
+Reference implementation!
+Kiss the sky!
+Peter Griffin!
+Do not distribute!
+Cogito ergo sum!
+A skeleton popped out!
+The sum of its parts!
+BTAF used to be good!
+I miss ADOM!
+umop-apisdn!
+The phrase 'upside-down', upside-down.
+Bring me Ray Cokes!
+Notch was a big fan of Ray Cokes and used to enjoy it when he was little.
+Finger-licking!
+Thematic!
+Pneumatic!
+A word meaning 'air-powered'.
+Sublime!
+Octagonal!
+Une baguette!
+Gargamel plays it!
+Rita is the new top dog!
+SWM forever!
+SWM stands for 'Single White Male'.
+Representing Edsbyn!
+Matt Damon!
+Supercalifragilisticexpialidocious!
+Consummate V's!
+Cow Tools!
+Double buffered!
+Fan fiction!
+Flaxkikare!
+Hotter than the sun!
+Internet enabled!
+Autonomous!
+Engage!
+Fantasy!
+DRR! DRR! DRR!
+Kick it root down!
+Regional resources!
+Woo, facepunch!
+Woo, somethingawful!
+Woo, tigsource!
+Woo, worldofminecraft!
+Woo, reddit!
+Google anlyticsed!
+Now supports åäö!
+Give us Gordon!
+Tip your waiter!
+Very fun!
+Vote for net neutrality!
+Lives in a pineapple under the sea!
+Omnipotent!
+Gasp!
+...!
+Bees, bees, bees, bees!
+Jag känner en bot!
+The splash text scales to fit, making this particular splash difficult to read at lower resolutions.
+Hampsterdance!
+Menger sponge!
+idspispopd!
+Eple (original edit)!
+So fresh, so clean!
+Slow acting portals!
+Try the Nether!
+Don't look directly at the bugs!
+Oh, ok, Pigmen!
+Finally with ladders!
+Scary!
+Play Minecraft, Watch Topgear, Get Pig!
+Twittered about!
+Jump up, jump up, and get down!
+Joel is neat!
+A riddle, wrapped in a mystery!
+This parrot is no more! It has ceased to be!
+Welcome to your Doom!
+Stay a while, stay forever!
+Stay a while and listen!
+Treatment for your rash!
+A commonly-used phrase in medicine advertising.
+Autological is!
+Information wants to be free!
+Almost never is an interesting concept!
+Lots of truthiness!
+The creeper is a spy!
+Turing complete!
+It's groundbreaking!
+The sky is the limit!
+Jeb has amazing hair!
+Ryan also has amazing hair!
+Casual gaming!
+Undefeated!
+Kinda like Lemmings!
+Follow the train, CJ!
+Leveraging synergy!
+This message will never appear on the splash screen, isn't that weird?
+DungeonQuest is unfair!
+Check out the far lands!
+Tyrion would love it!
+Also try VVVVVV!
+Also try Super Meat Boy!
+Also try Terraria!
+Also try Mount And Blade!
+Also try Project Zomboid!
+Also try World of Goo!
+Also try Limbo!
+Also try Pixeljunk Shooter!
+Also try Braid!
+That's super!
+Bread is pain!
+Read more books!
+Khaaaaaaaaan!
+Less addictive than TV Tropes!
+More addictive than lemonade!
+Bigger than a bread box!
+Millions of peaches!
+Fnord!
+This is my true form!
+A common cliché stock phrase usually used by villains and godly figures in works of fantasy. It is mainly employed at the final battle of the game.
+Don't bother with the clones!
+Pumpkinhead!
+Made by Jeb!
+Has an ending!
+Finally complete!
+Feature packed!
+Boots with the fur!
+Stop, hammertime!
+Testificates!
+Conventional!
+Doesn't avoid double negatives!
+A double negative is where two forms of negation are used in the same sentence. This sentence itself uses double negatives.
+Place ALL the blocks!
+A just a particular text referring their own blocks.
+Does barrel rolls!
+Meeting expectations!
+Ghoughpteighbteau tchoghs!
+Got your nose!
+Halos in snow!
+Holiday greetings!
+Slowpoke is slow!
+Pay the troll!
+But don't pay for the other one!
+Game over man!
+Sank you for the pizza!
+Yay, humans!
+Yay for beating enemies!
+Ding ding ding!
+Count the beans!
+Optimized!
+Dawww!
+Reseeded!
+Vertical turn-based!
+The survivalist!
+To the library!
+A spaceship!
+Spelunky time!
+Final Fantasy!
+Super hero!
+Spiderman without webbing!
+Curse you, adorable penguin!
+Born again!
+Party time!
+Retro time!
+Re-assembled!
+Get over here!
+Jukeboxed!
+Splinter!
+Zombies!
+Creepy creepy creepers!
+Big cheese!
+Not so bad, actually!
+Where'd I leave the keys?
+This is the key to great success!
+Hero turn!
+Back from the dead!
+No secret messages!
+No idea what this means!
+My nerdy secret!
+A well-known phrase!
+Can't touch this!
+Not for the faint of heart!
+Behold the power of rocks!
+Save the world!
+Beating the system!
+Final exam!
+With Great Power!
+Starboard side!
+Heavy hitters!
+Purple rain!
+Fire on the arrows!
+The secret is... sweet!
+Why, hello there!
+Victory is assured!
+Indeed!
+Go to the end!
+Adventure time!
+Geoff's myth!
+Victory royale!
+Land! Land! Land!
+I AM DODGER!
+Impossible!
+No check box for this one!
+Somewhat harmful!
+Made by Brad!
+This isn't the real world!
+Drenched in sizzle!
+Gotcha!
+One hit KO!
+Better second time!
+This is going somewhere!
+Let's play!
+No comment!
+Bury the dead!
+DARK!
