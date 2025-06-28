@@ -6,10 +6,12 @@ _Updates will be released soon after and will try to keep as close to the Offici
 
 **All textures obtained through trustworthy sources of Minecraft texture files.**
 
-Known bugs:
+- Block atlas implemented for optimisation
+- Fixed bug where fps drops with y-level
+- 30K y-level bug fixed on certain cases
+- Seed 0 is randomised to fix generation artefact
+- Fixed debug line disappearance
+- FPS stabilised and adjustable in AdjustableVariables.txt
 
-- Tiles fail to properly render with resolutioninTile below 10
-- Tiles fail to render properly beyond height: 1000 and length: 1400
-- Chunk render corrupted terrain beyond velocity = onechunk per tick
-
+  
 ### Written by Zincoin 2024
