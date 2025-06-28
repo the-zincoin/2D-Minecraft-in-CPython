@@ -6,7 +6,22 @@ _Updates will be released soon after and will try to keep as close to the Offici
 
 **All textures obtained through trustworthy sources of Minecraft texture files.**
 
-Upgraded UI system, fixed input hanging, officially runable.
-Still buggy and unstable.
+Additions:
+
+- Splash text 
+- Button sensing response
+- Credits and quit game
+- Options button and submenu updated
+- In-game music (Subwoofer Lullaby)
+- Button click sound
+- Music and button click adjustable in options
+- Button orientations modified
+- Input fields texture update
+- Snapshots taken with 'P'
+- Menus are data driven
+- Toggle between menus using "ESC"
+- Class methods for UI elements
+
+"Minor but big version. One small step for a version, one large leap for 2DMINECRAFTKIND!!!"
 
 ### Written by Zincoin 2025
