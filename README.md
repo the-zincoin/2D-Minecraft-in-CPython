@@ -8,9 +8,18 @@ _Updates will be released soon after and will try to keep as close to the Offici
 
 **All textures obtained through trustworthy sources of Minecraft texture files.**
 
-- Polished directories
-- Polishes UI and introduced full screen
-- Introduces section UI scaling
-- Adds an installer that can install the game as an app
+Additions:
+
+- UI overhaul
+- Debug toggling with 'D'
+- Button texture now same as MC
+- Full screen mode
+- Game music while in a world
+- Minceraft Easter Egg
+- UI shadows
+- Majority of codebase is data-driven
+- Genconsts and resource settings added
+- File structure overhaul
+- Programmer art
 
 ### Written by Zincoin 2025
