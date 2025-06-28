@@ -8,9 +8,9 @@ _Updates will be released soon after and will try to keep as close to the Offici
 
 **All textures obtained through trustworthy sources of Minecraft texture files.**
 
-Polished directories
-Polishes UI and introduced full screen
-Introduces section UI scaling
-Adds an installer that can install the game as an app
+- Polished directories
+- Polishes UI and introduced full screen
+- Introduces section UI scaling
+- Adds an installer that can install the game as an app
 
 ### Written by Zincoin 2025
