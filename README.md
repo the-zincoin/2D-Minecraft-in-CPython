@@ -13,6 +13,8 @@ Known bugs:
 - Tiles fail to render properly beyond height: 1000 and length: 1400
 - Chunk render corrupted terrain beyond velocity = onechunk per tick
 
+"Adds basic procedural world generation and player movement"
+
 _Hope you enjoy playing this first development version, aka 2d Minecraft's first 'tech test'!_
 
 ### Written by Zincoin 2024
