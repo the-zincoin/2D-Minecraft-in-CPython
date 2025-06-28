@@ -1,0 +1,18 @@
+{
+    "updating":
+    [
+        "Updating...",[400,200]
+    ],
+    "updated_success":
+    [
+        "Updated Successfully to",[400,200]
+    ],
+    "boot_game":
+    [
+        "Booting up game...",[400,200]
+    ],
+    "no_updates":
+    [
+        "No updates found. Ur up-to-date:)",[400,200]
+    ]
+}

@@ -1,0 +1,2 @@
+bg is 2000x1000
+Minecraft/minceraft is 930x118

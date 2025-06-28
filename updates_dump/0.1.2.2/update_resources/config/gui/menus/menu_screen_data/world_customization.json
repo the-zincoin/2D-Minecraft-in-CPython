@@ -1,0 +1,33 @@
+{
+    "config":[
+        {
+            "ID":"velocity",
+            "text":"Velocity",
+            "dimensions":[500,55],
+            "valueConstraints":[4,20],
+            "position":[1000,400],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"btnDone",
+            "displayedText":"Done",
+            "position":[1000,500],
+            "elementType":"chab",
+            "nextScreen": "options",
+            "chainedElements":[
+                "velocity"
+            ]
+        }
+
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+    }
+}

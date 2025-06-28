@@ -1,0 +1,55 @@
+{
+    "config":
+    [
+        {
+            "ID":"btnVideoSettings",
+            "displayedText":"Video Settings",
+            "position":[1000,300],
+            "elementType":"chab",
+            "nextScreen": "video_settings",
+            "chainedElements":[]
+        },
+        {
+            "ID":"btnWorldCustomization",
+            "displayedText":"World Customization",
+            "position":[1000,400],
+            "elementType":"chab",
+            "nextScreen": "world_customization",
+            "chainedElements":[]
+        },
+        {
+            "ID":"btnMusicnSounds",
+            "displayedText":"Music and Sounds",
+            "position":[1000,500],
+            "elementType":"chab",
+            "nextScreen": "music_and_sounds",
+            "chainedElements":[]
+        },
+        {
+            "ID":"btnCache",
+            "displayedText":"Cache Specs (Unavailable)",
+            "position":[1000,600],
+            "elementType":"chab",
+            "nextScreen":"cache_specs",
+            "chainedElements":[]
+        },
+        {
+            "ID":"btnDone",
+            "displayedText":"Done",
+            "position":[1000,700],
+            "elementType":"chab",
+            "nextScreen": "title_screen",
+            "chainedElements":[]
+        }
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "title_screen"
+    }
+    
+}

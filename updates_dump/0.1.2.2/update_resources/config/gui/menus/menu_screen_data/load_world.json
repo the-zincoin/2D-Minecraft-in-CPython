@@ -1,0 +1,33 @@
+{
+    "config":
+    [
+        {
+            "ID":"btnLoad",
+            "displayedText":"Load",
+            "position":[1000,500],
+            "elementType":"chab",
+            "nextScreen":"game",
+            "chainedElements":
+            [
+                "world_name"
+            ]
+        },
+        {
+            "ID":"world_name",
+            "text":"World Name",
+            "position":[1000,400],
+            "size":[350,55],
+            "elementType":"i",
+            "iEType":"worldAttr"
+        }
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "open_game"
+    }
+}

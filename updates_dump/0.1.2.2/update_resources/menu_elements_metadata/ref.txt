@@ -1,0 +1,7 @@
+it stores it in the format
+
+{
+	"fileprefix":{
+		"elementName":[position in atlas relative to top left (0,0), size of texture in pix]
+	}	
+}

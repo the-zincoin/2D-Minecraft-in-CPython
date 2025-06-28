@@ -1,0 +1,83 @@
+{
+    "btnApply": [
+        118,
+        55
+    ],
+    "btnBackToSettings": [
+        500,
+        55
+    ],
+    "btnCreateNewWorld": [
+        500,
+        55
+    ],
+    "btnCredits": [
+        500,
+        55
+    ],
+    "btnGenerateLevel": [
+        500,
+        55
+    ],
+    "btnLoadLevel": [
+        500,
+        55
+    ],
+    "btnOpenGame": [
+        500,
+        55
+    ],
+    "btnOptions": [
+        233,
+        55
+    ],
+    "btnPlaySelectedWorld": [
+        500,
+        55
+    ],
+    "btnQuitGame": [
+        233,
+        55
+    ],
+    "btnSingleplayer": [
+        500,
+        55
+    ],
+    "btnCreate": [
+        350,
+        55
+    ],
+    "btnDone": [
+        500,
+        55
+    ],
+    "btnLoad": [
+        350,
+        55
+    ],
+
+    "btnMusicnSounds": [
+        500,
+        55
+    ],
+    "btnReset": [
+        118,
+        45
+    ],
+    "btnSaveandQuitToTitle": [
+        500,
+        55
+    ],
+    "btnVideoSettings": [
+        500,
+        55
+    ],
+    "btnWorldCustomization": [
+        500,
+        55
+    ],
+    "btnCache":[
+        500,
+        55
+    ]
+}

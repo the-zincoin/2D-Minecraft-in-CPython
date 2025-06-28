@@ -1,0 +1,53 @@
+{
+    "config":
+    [
+        {
+            "ID":"render_distance",
+            "text":"Render Distance",
+            "dimensions":[500,55],
+            "valueConstraints":[1,10],
+            "position":[1000,300],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"max_frame_rate",
+            "text":"Max Frame Rate",
+            "dimensions":[500,55],
+            "valueConstraints":[30,120],
+            "position":[1000,400],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"full_screen",
+            "text":"Full Screen",
+            "size":[500,55],
+            "position":[1000,500],
+            "choices":["OFF","ON"],
+            "elementType":"chob"
+        },
+        {
+            "ID":"btnDone",
+            "displayedText":"Done",
+            "position":[1000,600],
+            "elementType":"chab",
+            "nextScreen": "options",
+            "chainedElements":[
+                "render_distance",
+                "max_frame_rate",
+                "full_screen"
+            ]
+        }
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+    }
+
+}

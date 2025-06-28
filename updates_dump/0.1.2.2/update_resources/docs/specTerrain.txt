@@ -1,0 +1,9 @@
+maxBuildHeight y 320
+maxNaturalGenHeight y 256
+deepslateLevel y 0
+seaLevel y 64
+bedrockLevel y -64
+totalSpanning 384 blocks
+mountainGeneration 192 blocks
+caves 128 blocks
+buildingExtent y -64 to y 320

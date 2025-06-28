@@ -1,0 +1,53 @@
+{
+    "input_field":{
+        "cursor":"_",
+        "clickDelay":300,
+        "clickInterval":50,
+        "minimumwidth":350,
+        "charInInputfieldbase":20,
+        "colorActive":[255,255,255],
+        "colorInActive":[50,50,50],
+        "input_field_text_metadata":[[77,77,77],[255,255,255]]
+    },
+    "splash":{
+        "pulseSpeed":0.7,
+        "baseFontSize":31,
+        "splashBaseCharLength":25,
+        "diffBetweenFonts":3
+    },
+    "mixer":{
+        "frequency":44100,
+        "size":-16,
+        "channels":2,
+        "buffer":512,
+        "buttonClickVolume":0.5
+    },
+    "slider":{
+        "sliderDim":[23,55]
+    },
+    "general":
+    {
+       "shadowBase":4,
+       "defaultScreenDim":[2000,1000],
+       "should_render_debug":"False",
+       "base_font_size":33,
+       "default_sizes_scaling":[200,20]
+    },
+    "version_display":
+    {
+        "version_display_metadata":[[255,255,255],[50,50,50]],
+        "version":"2D Minecraft v0.1.2 Snapshot 2",
+        "credits":"All resources belong to Mojang Studios"
+    },
+    "slice_scaling":{
+        "sections":{
+            "left_section":[0,0,1,20],
+            "right_section":[199,0,1,20],
+            "top_section":[1,0,198,1],
+            "bottom_section":[1,19,198,1],
+            "middle_section":[1,1,198,18]
+        },
+        "border_thickness":3
+    }
+    
+}

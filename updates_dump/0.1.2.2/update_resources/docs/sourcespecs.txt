@@ -1,0 +1,40 @@
+button_class handles rendering and updating of button UI element, specifically chained and options buttons
+input_field_class handles rendering and updating of input_field UI element
+slider_class handles rendering and updating of slider UI element
+splash handles the initialization and rendering of splash text
+init_menu_screen initializes the menu screen related functionality and is separate from resources class
+menu_manager handles the class object menu and argument extraction for rendering and updating
+
+
+cload_audio, aka config_load_audio handles the loading of audio resources
+cload_global, aka config_global handles the loading of config dependencies
+cload_window_scale, aka config_load_window_scale handles window related offsets and scale variables for window scaling and initialization
+
+rload_button_scaling, aka resource_load_button_scaling, prepares assets for 5 slice scaling of buttons
+rloading_gui_textures_text handles the loading of gui atlas textures and title text
+
+
+static_gui_cload handles the loading of config variables for Static UI elements e.g splash and text prep
+interactive_gui_cload handles the loading of config variables for Interactive UI elements e.g sliders, button options and input fields
+data_file_manager provides utility functions for the loading of json and sav files
+loader_and_saver handles the loading and saving of worlds
+process_load_save_inputs connects the menu with the game so the game can be initialized
+
+
+tile_processor handles the preparation of world tile layering
+processing_classes handles game related processing and resources
+lighting handles light related operations on tiles
+game.py handles the rendering and major functionality of the game itself
+chunk_processor handles the updating of loaded chunks and updating player position
+player handles player-related movement/rendering
+
+
+main is the main src code where everything is booted up.
+math_dependencies contain math-related utility functions
+perlin_noise_2d is 2d perlin noise utility function
+resources_util contains misc utility functions as well as the Resources Global Obj
+
+
+
+
+

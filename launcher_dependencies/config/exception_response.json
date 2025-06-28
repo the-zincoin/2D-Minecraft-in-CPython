@@ -1,0 +1,16 @@
+{
+    "Move":{
+        "FileNotFound_resources":[
+            "Folder or file not found in update_resources. Check if you deleted any resources/modify anything in the update .zip file"
+        ],
+        "FileNotFound_new":[
+            "Folder or file not found in the minecraft folder/sub-directories. Check if you modified any SOURCE FOLDERS (not files)/ modified folder structure in the minecraft folder"
+        ]
+
+    },
+    "Global":{
+        "PermissionError":[
+            "Folder or file not permitted to access. Check if any of the files or sub-directories are readonly or only runnable as admin. Hidden system files can also cause problems."
+        ]
+    }
+}

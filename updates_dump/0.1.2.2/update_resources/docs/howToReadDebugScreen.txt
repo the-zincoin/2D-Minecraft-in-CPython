@@ -1,0 +1,10 @@
+1 Version name
+2 X coordinate in blocks, chunks and pixels
+3 y coordinate in blocks, chunks and pixels
+4 Current FPS, Max Fps
+5 Seed, Render Distance, Vertical Load Distance (distance in sections (16x16blocks) from current player chunk Y)
+6 Cached(s), Loaded(s) Number of cached sections, loaded sections
+7 Cached(c), Loaded(c) Number of cached chunks, loaded chunks
+8 Tiles rendered
+9 Number of buffer surfaces as extras for rendering
+10 Batched surface ready for rendering

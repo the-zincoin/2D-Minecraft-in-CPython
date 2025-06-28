@@ -1,0 +1,1 @@
+All technologies in the updater should not be modified, copied or plagiarised in any way. It is the intellectual property of Mysterio and is in the game's best interests. Thank you.

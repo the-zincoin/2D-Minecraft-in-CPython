@@ -1,0 +1,34 @@
+{
+    "config":[
+        
+        {
+            "ID":"cache_storage_space",
+            "text":"Storage Space (in MB)",
+            "dimensions":[500,55],
+            "valueConstraints":[1,100],
+            "position":[1000,400],
+            "elementType":"s",
+            "iEType":"settings"
+        },
+        {
+            "ID":"btnDone",
+            "displayedText":"Done",
+            "position":[1000,500],
+            "elementType":"chab",
+            "nextScreen": "options",
+            "chainedElements":[
+                "cache_storage_space"
+            ]
+        }
+        
+    ],
+    "misc":{
+        "backGround":
+        "bgSubMenus",
+        "text":"",
+        "type":
+        "h",
+        "previousScreen":
+        "options"
+    }
+}

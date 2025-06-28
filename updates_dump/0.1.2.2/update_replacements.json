@@ -1,0 +1,37 @@
+[
+    {
+        "old_resource_path":"minecraft/assets/audio",
+        "update_resource_path":"audio",
+        "new_game_resource_path":"minecraft/assets/audio"
+    },
+    {
+        "old_resource_path":"minecraft/assets/config",
+        "update_resource_path":"config",
+        "new_game_resource_path":"minecraft/assets/config"
+    },
+    {
+        "old_resource_path":"minecraft/assets/textures/gui/menus/menu_elements_metadata",
+        "update_resource_path":"menu_elements_metadata",
+        "new_game_resource_path":"minecraft/assets/textures/gui/menus/menu_elements_metadata"
+    },
+    {
+        "old_resource_path":"minecraft/docs",
+        "update_resource_path":"docs",
+        "new_game_resource_path":"minecraft/docs"
+    },
+    {
+        "old_resource_path":"minecraft/src",
+        "update_resource_path":"src",
+        "new_game_resource_path":"minecraft/src"
+    },
+    {
+        "old_resource_path":"minecraft/tests",
+        "update_resource_path":"tests",
+        "new_game_resource_path":"minecraft/tests"
+    },
+    {
+        "old_resource_path":"minecraft/game.exe",
+        "update_resource_path":"main.exe",
+        "new_game_resource_path":"main.exe"
+    }
+]
